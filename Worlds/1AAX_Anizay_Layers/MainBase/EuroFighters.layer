@@ -1,0 +1,27 @@
+$grp GenericEntity {
+ EuroFighter_Flying {
+  components {
+   MeshObject "{690549E712883B8F}" {
+    Object "{BB20A0F78D5A2879}eurofighter/Eurofighter.xob"
+   }
+  }
+  coords 8592.064 131.488 7464.877
+  angles 0 90.622 10.567
+ }
+ EuroFighter_Handgar {
+  components {
+   MeshObject "{690549E7CC5D15D7}" {
+    Object "{BB20A0F78D5A2879}eurofighter/Eurofighter.xob"
+   }
+  }
+  coords 8359.238 111.544 7042.096
+ }
+ EuroFigter_Taxi {
+  components {
+   MeshObject "{690549E722768DF7}" {
+    Object "{BB20A0F78D5A2879}eurofighter/Eurofighter.xob"
+   }
+  }
+  coords 8511.07 111.531 6805.699
+ }
+}

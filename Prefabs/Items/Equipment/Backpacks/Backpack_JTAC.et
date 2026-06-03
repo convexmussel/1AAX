@@ -1,0 +1,72 @@
+GenericEntity : "{09D6A1C9543E4A95}Prefabs/Items/Core/Backpack_Base.et" {
+ ID "511E9C6ADE70F798"
+ components {
+  BaseRadioComponent "{697AE1B4D9CC1ED2}" {
+   "Encryption key" "royalCrown"
+   "Turned on" 1
+   Transceivers {
+    RadioTransceiver "{697AE1B4D6FC03E6}" {
+     ChannelFrequency 39000
+     "Transmitting Range" 100000
+     "Min tunable frequency" 30000
+     "Max tunable frequency" 76000
+     "Frequency resolution" 200
+    }
+    RadioTransceiver "{697AE1BB30DA01F5}" {
+     ChannelFrequency 48000
+     "Transmitting Range" 100000
+     "Min tunable frequency" 30000
+     "Max tunable frequency" 76000
+     "Frequency resolution" 200
+    }
+   }
+  }
+  MeshObject "{511E9C6ADE70F7BD}" {
+   Object "{AD560ADB3B8B102E}Assets/Items/Equipment/Backpacks/Backpack_ALICE_Medium/Backpack_ALICE_Medium.xob"
+  }
+  SCR_UniversalInventoryStorageComponent "{5222CB03A40528FA}" {
+   Attributes SCR_ItemAttributeCollection "{5222CB039E9715D1}" {
+    ItemDisplayName UIInfo "{5222CB03904B414C}" {
+     Name "#AR-Backpack_ALICE_Medium_Name"
+     Description "#AR-Backpack_ALICE_Medium_Description"
+    }
+    CustomAttributes {
+     PreviewRenderAttributes "{52BCBDD2B54658EC}" {
+      CameraDistanceToItem 4
+      FOV 10
+      PreviewModel "{E0BEDFA62478F57F}Assets/Items/Equipment/Backpacks/Backpack_ALICE_Medium/Backpack_ALICE_Medium_combined.xob"
+     }
+    }
+   }
+  }
+  BaseLoadoutClothComponent "{511E9C6ADE70F7BB}" {
+   Slots {
+    LoadoutSlotInfo "{511E9C6A327EA2E2}" {
+    }
+   }
+   WornModel "{AD560ADB3B8B102E}Assets/Items/Equipment/Backpacks/Backpack_ALICE_Medium/Backpack_ALICE_Medium.xob"
+   ItemModel "{B982CAE1F85001D0}Assets/Items/Equipment/Backpacks/Backpack_ALICE_Medium/Backpack_ALICE_Medium_item.xob"
+   SoundInt 810
+  }
+  ActionsManagerComponent "{511E9C6ADE70F786}" {
+   ActionContexts {
+    UserActionContext "{511E9C6ADE70F788}" {
+     Position PointInfo "{511E9C6ADE70F78D}" {
+      Offset 0 0.1 0
+     }
+     Radius 1
+    }
+   }
+  }
+  SignalsManagerComponent "{697AE1B85F6B2243}" {
+  }
+  RHS_RadioSourceActiveComponent "{697AE1B8528FA4E5}" {
+  }
+  SCR_RadioComponent "{697AE1B8338680F0}" {
+   m_bCanBeHeld 0
+   m_iRadioCategory MANPACK
+   m_iRadioType ANPRC77
+  }
+ }
+ coords 3496.379 205.523 641.541
+}

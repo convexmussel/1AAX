@@ -1,0 +1,42 @@
+Vehicle _Series_LWB_Recce_M2HB_Variant_1 : "{46C8F837F47D036E}Prefabs/Vehicles/Wheeled/LR_3Series/3Series_LWB_Recce_M2HB_Variant_3.et" {
+ coords 8446.656 111.691 6741.652
+ angles 0 -121.555 0
+}
+$grp SCR_ChimeraCharacter : "{9F18A2085929AFA4}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Final/Campaign_UK_Player_1983_Desert.et" {
+ {
+  coords 8428.382 112 6734.85
+  angles 0 -145.081 0
+ }
+ {
+  coords 8435.303 112 6729.098
+  angles 0 -145.081 0
+ }
+ {
+  coords 8442.958 111.953 6739.854
+  angles 0 -145.081 0
+ }
+ {
+  coords 8435.04 112 6744.395
+  angles 0 -145.081 0
+ }
+ {
+  coords 8432.007 112.129 6748.508
+  angles 0 103.847 0
+ }
+ {
+  coords 8451.222 111.836 6761.472
+  angles 0 176.137 0
+ }
+ {
+  coords 8440.253 111.976 6763.53
+  angles 0 163.378 0
+ }
+ {
+  coords 8414.854 112.522 6744.454
+  angles 0 -149.241 0
+ }
+ {
+  coords 8438.815 126.615 6727.669
+  angles 0 -132.771 0
+ }
+}

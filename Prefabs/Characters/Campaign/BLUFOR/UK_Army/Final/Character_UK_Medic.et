@@ -1,0 +1,24 @@
+SCR_ChimeraCharacter : "{2CB8539EC892B20A}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Final/Character_UK_Base.et" {
+ ID "520EC961A090B1EE"
+ components {
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Back {
+     Prefab "{816B4F309B3B3D39}Prefabs/Items/Equipment/Backpacks/Rucksack_GS_assembled.et"
+    }
+   }
+  }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{62A74B5BE373CB7E}" {
+     Enabled 1
+     TargetStorage "Back/Rucksack_GS_assembled.et"
+     TargetPurpose 1
+     PrefabsToSpawn {
+      "{0BE70BD35E5EF6DA}Prefabs/Items/Equipment/Kits/MedicalKit_01/MedicalKit_01_UK.et" "{E67E7932C86FBB96}Prefabs/Items/Medicine/FieldDressing_UK_01.et" "{E67E7932C86FBB96}Prefabs/Items/Medicine/FieldDressing_UK_01.et" "{E67E7932C86FBB96}Prefabs/Items/Medicine/FieldDressing_UK_01.et" "{E67E7932C86FBB96}Prefabs/Items/Medicine/FieldDressing_UK_01.et" "{E67E7932C86FBB96}Prefabs/Items/Medicine/FieldDressing_UK_01.et" "{E67E7932C86FBB96}Prefabs/Items/Medicine/FieldDressing_UK_01.et" "{E67E7932C86FBB96}Prefabs/Items/Medicine/FieldDressing_UK_01.et" "{842E93279EA18647}Prefabs/Items/Medicine/Tourniquet_01/Tourniquet_UK_01.et" "{842E93279EA18647}Prefabs/Items/Medicine/Tourniquet_01/Tourniquet_UK_01.et" "{842E93279EA18647}Prefabs/Items/Medicine/Tourniquet_01/Tourniquet_UK_01.et" "{57A7222BCD92A59E}Prefabs/Items/Medicine/SalineBag_01/SalineBag_UK_01.et" "{57A7222BCD92A59E}Prefabs/Items/Medicine/SalineBag_01/SalineBag_UK_01.et" "{57A7222BCD92A59E}Prefabs/Items/Medicine/SalineBag_01/SalineBag_UK_01.et" "{57A7222BCD92A59E}Prefabs/Items/Medicine/SalineBag_01/SalineBag_UK_01.et" "{57A7222BCD92A59E}Prefabs/Items/Medicine/SalineBag_01/SalineBag_UK_01.et" "{C898770E542051A7}Prefabs/Items/Medicine/MorphineInjection_01/MorphineInjection_01_British.et" "{C898770E542051A7}Prefabs/Items/Medicine/MorphineInjection_01/MorphineInjection_01_British.et" "{C898770E542051A7}Prefabs/Items/Medicine/MorphineInjection_01/MorphineInjection_01_British.et" "{C898770E542051A7}Prefabs/Items/Medicine/MorphineInjection_01/MorphineInjection_01_British.et" "{C898770E542051A7}Prefabs/Items/Medicine/MorphineInjection_01/MorphineInjection_01_British.et" "{C898770E542051A7}Prefabs/Items/Medicine/MorphineInjection_01/MorphineInjection_01_British.et" "{C898770E542051A7}Prefabs/Items/Medicine/MorphineInjection_01/MorphineInjection_01_British.et" "{E67E7932C86FBB96}Prefabs/Items/Medicine/FieldDressing_UK_01.et" "{E67E7932C86FBB96}Prefabs/Items/Medicine/FieldDressing_UK_01.et" "{C898770E542051A7}Prefabs/Items/Medicine/MorphineInjection_01/MorphineInjection_01_British.et" "{C898770E542051A7}Prefabs/Items/Medicine/MorphineInjection_01/MorphineInjection_01_British.et" "{E67E7932C86FBB96}Prefabs/Items/Medicine/FieldDressing_UK_01.et" "{E67E7932C86FBB96}Prefabs/Items/Medicine/FieldDressing_UK_01.et"
+     }
+    }
+   }
+  }
+ }
+}

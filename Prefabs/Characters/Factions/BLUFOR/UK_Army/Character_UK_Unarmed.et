@@ -1,0 +1,15 @@
+SCR_ChimeraCharacter : "{376676E968BA3518}Prefabs/Characters/Factions/BLUFOR/UK_Army/Character_UK_BaseLoadout.et" {
+ ID "520EC961A090B1EE"
+ components {
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Hat {
+     Prefab "{93190FC12B4DD0B0}Prefabs/Characters/HeadGear/Helmet_Mk5_01/Helmet_Mk5_cover_net_01.et"
+    }
+    LoadoutSlotInfo Pants {
+     Prefab ""
+    }
+   }
+  }
+ }
+}

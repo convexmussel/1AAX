@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{4E0CE76B84C43450}Prefabs/Characters/Factions/BLUFOR/UK_Army/Character_UK_Base_1AAX.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

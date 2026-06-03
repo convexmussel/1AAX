@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{E8667C2E6BC0D51F}Prefabs/Characters/Uniforms/Trousers_Tropical_DesertDPM_01_Worn.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

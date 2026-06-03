@@ -1,0 +1,137 @@
+SCR_MapEntity MapEntity : "{731564B66F91B107}Prefabs/World/Game/MapEntity.et" {
+ coords 5144.606 165.464 5076.696
+ {
+  CommentEntity {
+   coords 0 1 0
+   m_Comment "MapEntity: "\
+   "Set up map textures"
+   m_Color 0 0 0
+   m_FaceCamera 1
+   m_TextBackground 1
+   m_BackgroundColor 1 0.6 0
+   m_BackgroundTransparency 0
+  }
+ }
+}
+SCR_AIWorld SCR_AIWorld : "{E0A05C76552E7F58}Prefabs/AI/SCR_AIWorld.et" {
+ components {
+  NavmeshWorldComponent "{5584F30E67F617AD}" {
+   NavmeshSettings NavmeshWorld "{50FC63BEBE3973C5}" {
+    NavmeshFilesConfig BaseNavmeshFilesConfig "{691342C6755E4D27}" {
+     NavmeshFile "{22BCE6ADD2DCD94C}Worlds/Gamemaster/Navmeshes/Anizay_soldiers_navmesh.nmn"
+    }
+   }
+  }
+  NavmeshWorldComponent "{5584F30EEFEE1223}" {
+   NavmeshSettings ChimeraNavmeshWorld "{50FC63BEBE3973C5}" {
+    NavmeshFilesConfig BaseNavmeshFilesConfig "{60CA9BE5536BF701}" {
+     NavmeshFile "{CFCD9E2EA1CAA291}Worlds/Gamemaster/Navmeshes/Vehicle_navmesh/anizay_vehicle_navmesh.nmn"
+    }
+   }
+  }
+  NavmeshWorldComponent "{5C8C9B750D124A63}" {
+   NavmeshSettings NavmeshWorld "{5C8C9B750B60C6E2}" {
+    NavmeshFilesConfig BaseNavmeshFilesConfig "{5C90BD0EC793647D}" {
+     NavmeshFile "{B077E4658D03DDA5}Worlds/Gamemaster/Navmeshes/lowres_navmesh/Anizay_lowres_navmesh.nmn"
+    }
+   }
+  }
+ }
+ coords 5144.606 165.458 5075.696
+ {
+  CommentEntity {
+   coords 0 1 0
+   m_Comment "SCR_AIWorld: "\
+   "Configure navigation mesh"
+   m_Color 0 0 0
+   m_FaceCamera 1
+   m_TextBackground 1
+   m_BackgroundColor 1 0.6 0
+   m_BackgroundTransparency 0
+  }
+ }
+}
+PerceptionManager PerceptionManager : "{028DAEAD63E056BE}Prefabs/World/Game/PerceptionManager.et" {
+ coords 5144.606 165.485 5074.696
+}
+SCR_GameModeEditor GameMode_Editor_Full : "{DA3986AF1B5032B7}Prefabs/MP/Modes/Editor/GameMode_Editor_Full.et" {
+ coords 5144.606 165.511 5073.696
+}
+$grp SCR_ChimeraCharacter : "{9F18A2085929AFA4}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Final/Character_UK_Charlie.et" {
+ {
+  coords 8442.256 111.531 6850.188
+  angles 0 -100.525 0
+ }
+ {
+  coords 8383.445 111.531 6836.215
+  angles 0 -125.345 0
+ }
+ {
+  coords 8382.367 111.531 6836.185
+  angles 0 92.17 0
+ }
+ {
+  coords 8461.897 115.512 6760.829
+  angles 0 -98.296 0
+ }
+ {
+  coords 8462.656 115.512 6761.983
+  angles 0 -4.669 0
+ }
+ {
+  coords 8523.108 115.512 6765.811
+  angles 0 -3.545 0
+ }
+ {
+  coords 8512.61 111.531 6720.417
+  angles 0 -4.51 0
+ }
+ {
+  coords 8513.871 111.531 6721.821
+  angles 0 -145.081 0
+ }
+ {
+  coords 8382.657 111.531 7010.051
+  angles 0 76.744 0
+ }
+ {
+  coords 8384.56 111.531 7010.725
+  angles 0 -145.081 0
+ }
+ {
+  coords 8385.026 111.531 7009.196
+  angles 0 -92.394 0
+ }
+ {
+  coords 8363.534 111.544 7032.303
+  angles 0 82.372 0
+ }
+ {
+  coords 8371.438 126.916 6994.541
+  angles 0 85.469 0
+ }
+ {
+  coords 8368.072 126.916 6993.006
+  angles 0 163.735 0
+ }
+ {
+  coords 8449.026 111.605 6897.015
+  angles 0 -45.973 0
+ }
+ {
+  coords 8447.857 111.605 6897.14
+  angles 0 -1.026 0
+ }
+ {
+  coords 8443.639 111.605 6881.276
+  angles 0 136.279 0
+ }
+ {
+  coords 8436.594 111.531 6915.192
+  angles 0 -96.389 0
+ }
+ {
+  coords 8434.8 111.531 6915.272
+  angles 0 58.349 0
+ }
+}

@@ -1,0 +1,105 @@
+$grp GenericEntity {
+ {
+  components {
+   MeshObject "{6912C4B16B2FA52A}" {
+    Object "{A9E5D84E56F56D51}Assets/Props/Military/BPP_Hesco4x2x.xob"
+   }
+  }
+  coords 7123.708 311.709 3405.945
+  angles 0 -96.588 0
+ }
+ {
+  components {
+   MeshObject "{6912C4B16B2FA52A}" {
+    Object "{A9E5D84E56F56D51}Assets/Props/Military/BPP_Hesco4x2x.xob"
+   }
+  }
+  coords 7136.293 310.919 3407.302
+  angles 0 -96.465 0
+ }
+ {
+  components {
+   MeshObject "{6912C4B16B2FA52A}" {
+    Object "{A9E5D84E56F56D51}Assets/Props/Military/BPP_Hesco4x2x.xob"
+   }
+  }
+  coords 7139.933 310.959 3407.689
+  angles 0 -96.588 0
+ }
+ {
+  components {
+   MeshObject "{6912C4B16B2FA52A}" {
+    Object "{A9E5D84E56F56D51}Assets/Props/Military/BPP_Hesco4x2x.xob"
+   }
+  }
+  coords 7141.366 311.133 3410.858
+  angles 0 173.531 0
+ }
+ {
+  components {
+   MeshObject "{6912C4B16B2FA52A}" {
+    Object "{A9E5D84E56F56D51}Assets/Props/Military/BPP_Hesco4x2x.xob"
+   }
+  }
+  coords 7140.88 312.383 3415.582
+  angles 0 173.531 0
+ }
+ {
+  components {
+   MeshObject "{6912C4B16B2FA52A}" {
+    Object "{A9E5D84E56F56D51}Assets/Props/Military/BPP_Hesco4x2x.xob"
+   }
+  }
+  coords 7140.318 313.425 3420.318
+  angles 0 173.531 0
+ }
+ {
+  components {
+   MeshObject "{6912C4B16B2FA52A}" {
+    Object "{A9E5D84E56F56D51}Assets/Props/Military/BPP_Hesco4x2x.xob"
+   }
+  }
+  coords 7120.75 311.762 3408.5
+  angles 0 173.27 0
+ }
+ {
+  components {
+   MeshObject "{6912C4B16B2FA52A}" {
+    Object "{A9E5D84E56F56D51}Assets/Props/Military/BPP_Hesco4x2x.xob"
+   }
+  }
+  coords 7120.172 312.212 3413.215
+  angles 0 173.27 0
+ }
+ {
+  components {
+   MeshObject "{6912C4B16B2FA52A}" {
+    Object "{A9E5D84E56F56D51}Assets/Props/Military/BPP_Hesco4x2x.xob"
+   }
+  }
+  coords 7119.605 313.059 3417.943
+  angles 0 173.27 0
+ }
+}
+$grp StaticModelEntity : "{5472624DA4EB5B45}PrefabLibrary/DefaultLibrary/Walls/Pipe/BarGate_01.et" {
+ {
+  coords 7128.839 -0.128 3419.81
+ }
+ {
+  coords 7128.72 0.374 3429.825
+ }
+ {
+  coords 7130.201 0.044 3405.556
+  angles 0 -5.471 0
+ }
+}
+$grp StaticModelEntity : "{C00C81848AB4BCF9}PrefabLibrary/Military/Observation_Tower_2.et" {
+ {
+  coords 7138.884 311.594 3410.406
+  angles 0 84.548 0
+ }
+ {
+  coords 7123.2 312.044 3408.757
+  angles 0 84.548 0
+ }
+}

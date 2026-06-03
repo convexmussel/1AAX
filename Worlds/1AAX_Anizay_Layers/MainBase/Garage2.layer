@@ -1,0 +1,70 @@
+$grp GenericEntity {
+ {
+  components {
+   MeshObject "{690549E1042A2452}" {
+    Object "{AEF2F66D9E4613B9}Assets/Props/Military/MilitaryCrates/CrateStack_01/Dst/CrateStack_01_dst_1_debris_01.xob"
+   }
+  }
+  coords 8369.312 112.52 6831.188
+  angles 0 89.896 0
+ }
+ {
+  components {
+   MeshObject "{690549E11B76CDB1}" {
+    Object "{569C9B8C543D3020}Assets/Props/Crates/CrateWooden_02/CrateWooden_02_1x1x1.xob"
+   }
+  }
+  coords 8369.241 111.531 6831.663
+  angles 0 77.757 0
+ }
+ {
+  components {
+   MeshObject "{690549E11A7118F3}" {
+    Object "{569C9B8C543D3020}Assets/Props/Crates/CrateWooden_02/CrateWooden_02_1x1x1.xob"
+   }
+  }
+  coords 8369.358 111.531 6830.534
+  angles 0 89.896 0
+ }
+ {
+  components {
+   MeshObject "{690549E1F90DAA17}" {
+    Object "{9C004A777524EB8F}Assets/Props/Military/MilitaryCrates/CrateStack_01/Dst/CrateStack_01_dst_2.xob"
+   }
+  }
+  coords 8369.454 111.531 6827.001
+  angles 0 123.251 0
+ }
+}
+SCR_ChimeraCharacter : "{5826A8215EEB00FA}Prefabs/Characters/Tutorial/Narrative/Mechanic.et" {
+ coords 8356.98 111.562 6826.907
+ angles 0 -130.843 0
+}
+GenericEntity : "{7D39683D0F8EDB59}Prefabs/Props/Military/MilitaryCrates/CrateStack_01/Dst/CrateStack_01_Dst_3_dark.et" {
+ coords 8367.939 111.531 6828.143
+ angles 0 89.896 0
+}
+GenericEntity : "{7F59A8D992FBF5CA}Prefabs/Props/Military/MilitaryCrates/CrateStack_01/CrateStack_01_base.et" {
+ coords 8367 111.531 6826.138
+ angles 0 -154.081 0
+}
+Vehicle _Series_LWB_Cargo_Variant_2_Filled2 : "{82B65B98B28CE7AB}Prefabs/Vehicles/Wheeled/LR_3Series/3Series_LWB_Cargo_Variant_2_Filled.et" {
+ coords 8377.842 111.531 6829.795
+ angles 0 -0.104 0
+}
+Vehicle _Series_LWB_GPMG_Variant_2 : "{913398939B050BDA}Prefabs/Vehicles/Wheeled/LR_3Series/3Series_LWB_GPMG_Variant_2.et" {
+ coords 8372.573 111.531 6829.388
+ angles 0 -0.104 0
+}
+GenericEntity : "{9AD515FDBB3CAF76}PrefabsEditable/Auto/Structures/Signs/Military/Supplies/E_Sign_SupplyStorage_Fuel_US_01.et" {
+ coords 8356.629 111.885 6834.494
+ angles 0 -0.341 0
+}
+Vehicle _Series_LWB_Cargo2 : "{F6F447710C03EE43}Prefabs/Vehicles/Wheeled/LR_3Series/3Series_LWB_Cargo.et" {
+ coords 8363.699 111.532 6829.784
+ angles 0 -0.104 0
+}
+GenericEntity : "{FC4BE1ACA1209194}PrefabsEditable/Auto/Props/Military/WaterTanks/E_MobileFuelTank_USSR_01.et" {
+ coords 8358.012 111.531 6832.37
+ angles 0 43.766 0
+}

@@ -1,0 +1,193 @@
+$grp GenericEntity {
+ {
+  components {
+   MeshObject "{6912E644F86315AC}" {
+    Object "{A9E5D84E56F56D51}Assets/Props/Military/BPP_Hesco4x2x.xob"
+   }
+  }
+  coords 7146.897 339.305 3557.324
+  angles 0 -150.171 0
+ }
+ {
+  components {
+   MeshObject "{6912E644F86315AC}" {
+    Object "{A9E5D84E56F56D51}Assets/Props/Military/BPP_Hesco4x2x.xob"
+   }
+  }
+  coords 7160.97 337.23 3581.948
+  angles 0 -150.171 0
+ }
+ {
+  components {
+   MeshObject "{6912E644F86315AC}" {
+    Object "{A9E5D84E56F56D51}Assets/Props/Military/BPP_Hesco4x2x.xob"
+   }
+  }
+  coords 7156.28 339.429 3573.729
+  angles 0 -150.171 0
+ }
+ {
+  components {
+   MeshObject "{6912E644F86315AC}" {
+    Object "{A9E5D84E56F56D51}Assets/Props/Military/BPP_Hesco4x2x.xob"
+   }
+  }
+  coords 7153.958 339.414 3569.664
+  angles 0 -150.171 0
+ }
+ {
+  components {
+   MeshObject "{6912E644F86315AC}" {
+    Object "{A9E5D84E56F56D51}Assets/Props/Military/BPP_Hesco4x2x.xob"
+   }
+  }
+  coords 7159.303 339.434 3585.015
+  angles 0 -60.415 0
+ }
+ {
+  components {
+   MeshObject "{6912E644F86315AC}" {
+    Object "{A9E5D84E56F56D51}Assets/Props/Military/BPP_Hesco4x2x.xob"
+   }
+  }
+  coords 7158.653 339.363 3577.822
+  angles 0 -150.171 0
+ }
+ {
+  components {
+   MeshObject "{6912E644F86315AC}" {
+    Object "{A9E5D84E56F56D51}Assets/Props/Military/BPP_Hesco4x2x.xob"
+   }
+  }
+  coords 7149.26 339.521 3561.41
+  angles 0 -150.171 0
+ }
+ {
+  components {
+   MeshObject "{6912E644F86315AC}" {
+    Object "{A9E5D84E56F56D51}Assets/Props/Military/BPP_Hesco4x2x.xob"
+   }
+  }
+  coords 7159.299 339.01 3585.06
+  angles 0 -60.415 0
+ }
+ {
+  components {
+   MeshObject "{6912E644F86315AC}" {
+    Object "{A9E5D84E56F56D51}Assets/Props/Military/BPP_Hesco4x2x.xob"
+   }
+  }
+  coords 7155.226 339.425 3587.44
+  angles 0 -60.415 0
+ }
+ {
+  components {
+   MeshObject "{6912E644F86315AC}" {
+    Object "{A9E5D84E56F56D51}Assets/Props/Military/BPP_Hesco4x2x.xob"
+   }
+  }
+  coords 7144.509 339.156 3553.239
+  angles 0 -150.171 0
+ }
+ {
+  components {
+   MeshObject "{6912E644F86315AC}" {
+    Object "{A9E5D84E56F56D51}Assets/Props/Military/BPP_Hesco4x2x.xob"
+   }
+  }
+  coords 7142.855 339.572 3594.461
+  angles 0 -60.415 0
+ }
+ {
+  components {
+   MeshObject "{6912E644F86315AC}" {
+    Object "{A9E5D84E56F56D51}Assets/Props/Military/BPP_Hesco4x2x.xob"
+   }
+  }
+  coords 7147.001 339.522 3592.134
+  angles 0 -60.415 0
+ }
+ {
+  components {
+   MeshObject "{6912E644F86315AC}" {
+    Object "{A9E5D84E56F56D51}Assets/Props/Military/BPP_Hesco4x2x.xob"
+   }
+  }
+  coords 7151.126 339.532 3589.793
+  angles 0 -60.415 0
+ }
+ {
+  components {
+   MeshObject "{6912E644F86315AC}" {
+    Object "{A9E5D84E56F56D51}Assets/Props/Military/BPP_Hesco4x2x.xob"
+   }
+  }
+  coords 7160.986 339.411 3581.937
+  angles 0 -150.171 0
+ }
+ {
+  components {
+   MeshObject "{6912E644F86315AC}" {
+    Object "{A9E5D84E56F56D51}Assets/Props/Military/BPP_Hesco4x2x.xob"
+   }
+  }
+  coords 7151.593 339.465 3565.552
+  angles 0 -150.171 0
+ }
+}
+GenericEntity : "{082A7AABE91D6956}PrefabsEditable/Auto/Structures/Military/Training/E_TargetBTR_flank.et" {
+ coords 7152.803 339.531 3585.973
+ angles 0 -156.499 0
+}
+$grp SCR_FiringRangeTarget : "{96665DE667E8F908}PrefabsEditable/Auto/Props/Military/Training/E_TargetInfantry_01.et" {
+ {
+  coords 7153.836 339.531 3578.217
+  angles 0 29.055 0
+ }
+ {
+  coords 7148.584 339.531 3572.905
+  angles 0 29.055 0
+ }
+ {
+  coords 7138.595 339.531 3578.747
+  angles 0 29.055 0
+ }
+ {
+  coords 7146.574 339.531 3585.786
+  angles 0 29.055 0
+ }
+ {
+  coords 7135.509 339.562 3572.867
+  angles 0 29.055 0
+ }
+ {
+  coords 7141.758 339.532 3569.493
+  angles 0 29.055 0
+ }
+ {
+  coords 7146.352 339.531 3566.414
+  angles 0 29.055 0
+ }
+ {
+  coords 7147.074 339.531 3580.766
+  angles 0 29.055 0
+ }
+}
+GenericEntity : "{DE388C05C1301857}PrefabsEditable/Auto/Structures/Military/Training/E_TargetBRDM_front.et" {
+ coords 7144.333 339.637 3590.632
+ angles 0 -150.727 0
+}
+$grp GenericEntity : "{ED390D93C971810B}PrefabsEditable/Auto/Compositions/Slotted/SlotFlatSmall/E_SandbagPosition_S_UK_01.et" {
+ {
+  coords 7124.733 339.442 3561.551
+  angles 0 34.057 0
+ }
+ {
+  coords 7132.946 339.237 3556.414
+  angles 0 34.057 0
+ }
+ {
+  coords 7138.266 339.158 3552.912
+  angles 0 34.057 0
+ }
+}

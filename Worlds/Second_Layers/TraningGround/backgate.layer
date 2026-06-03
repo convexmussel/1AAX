@@ -1,0 +1,22 @@
+GenericEntity : "{13A99500A14FA14C}Prefabs/Props/Military/SupplyBox/SupplyShippingContainers/SupplyShippingContainers_01/SupplyShippingContainers_01_20ft.et" {
+ coords 6993.825 316.739 3737.628
+ angles 18.076 -64.716 0
+}
+GenericEntity : "{41F2EFF5B1118336}Prefabs/Props/Industrial/CargoContainers/CargoContainer_01/CargoContainer_02_20ft_BaltaShipping.et" {
+ coords 6990.864 315.004 3740.209
+ angles 0 27.124 0
+}
+$grp GenericEntity : "{684020BAF5633C30}Prefabs/Props/Military/SupplyBox/SupplyShippingContainers/SupplyShippingContainers_01/Dst/SupplyShippingContainers_01_10ft_Dst.et" {
+ {
+  coords 6989.186 317.546 3737.57
+  angles 0 26.863 0
+ }
+ {
+  coords 6991.097 317.538 3741.462
+  angles 0 27.474 0
+ }
+}
+GenericEntity : "{70E6C95F5372C9F8}Prefabs/Props/Military/SupplyBox/SupplyShippingContainers/SupplyShippingContainers_01/SupplyShippingContainers_US_01_20ft_Empty.et" {
+ coords 6988.106 314.783 3740.127
+ angles 0 26.886 0
+}

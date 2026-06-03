@@ -1,0 +1,25 @@
+$grp GenericEntity : "{A13F6A7F82DF031B}Prefabs/Compositions/Slotted/SlotFlatLarge/Helipad_L_US_01.et" {
+ {
+  coords 8508.777 111.551 6733.441
+ }
+ {
+  coords 8480.005 111.54 6738.821
+ }
+ {
+  coords 8498.657 111.53 6706
+ }
+}
+$grp Vehicle : "{F2A79BB12B198B3F}Prefabs/Vehicles/Helicopters/UH1H/AHMk1.et" {
+ AHMk1 {
+  coords 8498.948 112.095 6705.765
+  angles 0 77.649 0
+ }
+ AHMk2 {
+  coords 8479.026 112.044 6739.1
+  angles 0 57.85 0
+ }
+ AHMk3 {
+  coords 8509.286 112.074 6732.77
+  angles 0 72.207 0
+ }
+}

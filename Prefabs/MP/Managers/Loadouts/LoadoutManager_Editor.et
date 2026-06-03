@@ -1,0 +1,59 @@
+SCR_LoadoutManager : "{AA4E7419A1FF65B0}Prefabs/MP/Managers/Loadouts/LoadoutManager_Base.et" {
+ ID "56B2B47708C4F23A"
+ m_aPlayerLoadouts {
+  SCR_FactionPlayerLoadout "{615827571C5451F3}" {
+   m_sLoadoutName "2IC"
+   m_sLoadoutResource "{A0E908FA9EC368FC}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Final/Character_UK_2iC.et"
+  }
+  SCR_FactionPlayerLoadout "{697AE1B2812A29B7}" {
+   m_sLoadoutName "CMD"
+   m_sLoadoutResource "{23BE1E20BF36A893}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Final/Character_UK_Cmd.et"
+   m_sAffiliatedFaction "UK"
+  }
+  SCR_FactionPlayerLoadout "{697AE1B2FCDDC100}" {
+   m_sLoadoutName "JTAC"
+   m_sLoadoutResource "{A9CE8C72E491D0C0}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Final/Character_UK_JTAC.et"
+   m_sAffiliatedFaction "UK"
+  }
+  SCR_FactionPlayerLoadout "{697AE1B2FAAD3FE2}" {
+   m_sLoadoutName "Medic"
+   m_sLoadoutResource "{390DC501B99E1D4B}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Final/Character_UK_Medic.et"
+   m_sAffiliatedFaction "UK"
+  }
+  SCR_FactionPlayerLoadout "{697AE1B280970292}" {
+   m_sLoadoutName "GPMP"
+   m_sLoadoutResource "{D918D65E1309AD0A}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Final/Character_UK_GPMG.et"
+   m_sAffiliatedFaction "UK"
+  }
+  SCR_FactionPlayerLoadout "{697AE1B2F8889A3E}" {
+   m_sLoadoutName "LMG"
+   m_sLoadoutResource "{28524766EBA3A71D}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Final/Character_UK_LMG.et"
+   m_sAffiliatedFaction "UK"
+  }
+  SCR_FactionPlayerLoadout "{697AE1B2FDB44251}" {
+   m_sLoadoutName "HAT"
+   m_sLoadoutResource "{B5DDCCE1312E57C7}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Final/Character_UK_HAT.et"
+   m_sAffiliatedFaction "UK"
+  }
+  SCR_FactionPlayerLoadout "{697AE1B2FBB6CA53}" {
+   m_sLoadoutName "LAT"
+   m_sLoadoutResource "{A2EDF0BDFC65ADA2}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Final/Character_UK_LAT.et"
+   m_sAffiliatedFaction "UK"
+  }
+  SCR_FactionPlayerLoadout "{697AE1BF3172D2CF}" {
+   m_sLoadoutName "Pilot"
+   m_sLoadoutResource "{D56610962CDAD564}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Groups/Heli/Campaign_UK_Player_1989_HeliPilot.et"
+   m_sAffiliatedFaction "UK"
+  }
+  SCR_FactionPlayerLoadout "{697AE1B2F9BAC411}" {
+   m_sLoadoutName "Sniper"
+   m_sLoadoutResource "{A31FD1BAB87E9B37}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Final/Character_UK_Sniper.et"
+   m_sAffiliatedFaction "UK"
+  }
+  SCR_FactionPlayerLoadout "{697AE1BC7D50ABBD}" {
+   m_sLoadoutName "Rifleman"
+   m_sLoadoutResource "{2CB8539EC892B20A}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Final/Character_UK_Base.et"
+   m_sAffiliatedFaction "UK"
+  }
+ }
+}

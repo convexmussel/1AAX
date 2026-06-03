@@ -1,0 +1,413 @@
+SCR_MapEntity MapEntity : "{731564B66F91B107}Prefabs/World/Game/MapEntity.et" {
+ coords 5144.606 165.464 5076.696
+ "Map Geometry Data" "{AF606472FF21251B}Worlds/Gamemaster/GM_Anizay.topo"
+ "Satellite background image" "{8B38CC0FBBC58024}Data/UI/Textures/Map/Worlds/anizay_ras.edds"
+ {
+  CommentEntity {
+   coords 0 1 0
+   m_Comment "MapEntity: "\
+   "Set up map textures"
+   m_Color 0 0 0
+   m_FaceCamera 1
+   m_TextBackground 1
+   m_BackgroundColor 1 0.6 0
+   m_BackgroundTransparency 0
+  }
+ }
+}
+SCR_AIWorld SCR_AIWorld : "{E0A05C76552E7F58}Prefabs/AI/SCR_AIWorld.et" {
+ components {
+  NavmeshWorldComponent "{5584F30E67F617AD}" {
+   NavmeshSettings NavmeshWorld "{50FC63BEBE3973C5}" {
+    NavmeshFilesConfig BaseNavmeshFilesConfig "{6920D1618243F9E6}" {
+     NavmeshFile "{22BCE6ADD2DCD94C}Worlds/Gamemaster/Navmeshes/Anizay_soldiers_navmesh.nmn"
+    }
+   }
+  }
+  NavmeshWorldComponent "{5584F30EEFEE1223}" {
+   NavmeshSettings ChimeraNavmeshWorld "{50FC63BEBE3973C5}" {
+    NavmeshFilesConfig BaseNavmeshFilesConfig "{60CA9BE5536BF701}" {
+     NavmeshFile "{CFCD9E2EA1CAA291}Worlds/Gamemaster/Navmeshes/Vehicle_navmesh/anizay_vehicle_navmesh.nmn"
+    }
+   }
+  }
+  NavmeshWorldComponent "{5C8C9B750D124A63}" {
+   NavmeshSettings NavmeshWorld "{5C8C9B750B60C6E2}" {
+    NavmeshFilesConfig BaseNavmeshFilesConfig "{5C90BD0EC793647D}" {
+     NavmeshFile "{B077E4658D03DDA5}Worlds/Gamemaster/Navmeshes/lowres_navmesh/Anizay_lowres_navmesh.nmn"
+    }
+   }
+  }
+ }
+ coords 5144.606 165.458 5075.696
+ "Active AI limit" 400
+ {
+  CommentEntity {
+   coords 0 1 0
+   m_Comment "SCR_AIWorld: "\
+   "Configure navigation mesh"
+   m_Color 0 0 0
+   m_FaceCamera 1
+   m_TextBackground 1
+   m_BackgroundColor 1 0.6 0
+   m_BackgroundTransparency 0
+  }
+ }
+}
+PerceptionManager PerceptionManager : "{028DAEAD63E056BE}Prefabs/World/Game/PerceptionManager.et" {
+ coords 5144.606 165.485 5074.696
+}
+SCR_GameModeEditor GameMode_Editor_Full : "{DA3986AF1B5032B7}Prefabs/MP/Modes/Editor/GameMode_Editor_Full.et" {
+ components {
+  SCR_AdditionalGameModeSettingsComponent "{6170E11C3C452ACC}" {
+   m_eNametagRelationFilters 18
+   m_eNametagControllerFilters 3
+  }
+  SCR_CampaignBuildingManagerComponent "{5D7CEE59B8954EBB}" {
+   m_sFreeRoamBuildingClientTrigger "{5E191CEAF4B95816}Prefabs/MP/FreeRoamBuildingClientTrigger.et"
+   m_BudgetType CAMPAIGN
+   m_iCompositionRefundPercentage 100
+   m_OutlineManager SCR_CampaignBuildingCompositionOutlineManager "{5DF6FBB5913F3245}" : "{96A8B496A076F1C0}scripts/Game/Building/CampaignBuildingCompositionOutline.conf" {
+   }
+   m_sPrefabsToBuildResource "{D2527D9AA5B4A33E}Configs/Editor/PlaceableEntities/Compositions/Compositions_FreeRoamBuilding.conf"
+   m_sPrefabToHoldSupplyOnRefund "{4BBE0A784C01900E}Prefabs/Props/Military/SupplyBox/SupplyCrate/SupplyCrate_01/SupplyCrate_01_FreeRoamBuilding.et"
+  }
+  SCR_EditorRespawnBriefingComponent "{570245454BF91285}" {
+   m_SimpleBriefingBackground "{352FDBC685A7FCD8}UI/Textures/DeployMenu/DeployImages/GMDeploy_Player.edds"
+  }
+  SCR_GameModeHealthSettings "{5A22E11F9ACBB1DF}" {
+   m_fTourniquettedLegMovementSlowdown 0.564
+   m_fRegenerationDelay 5
+   m_fRegenerationScale 2.379
+  }
+  SCR_HintManagerComponent "{5702B54C6CBC9D7F}" {
+   m_aConditionLists {
+    SCR_HintConditionList "{5702B60460CC2467}" : "{AABAFA01D7DCE9D0}Configs/Hints/GameMode_Editor.conf" {
+    }
+   }
+  }
+  SCR_IdentityManagerComponent "{5AEEA80681EA61AF}" {
+   m_bEnableIdentityItemSlot 0
+  }
+  SCR_InitWeatherComponent "{58DCAB6D83A0CB17}" {
+   m_sInitialStartingWeatherId "Cloudy"
+   m_iSetWeatherConstant 1
+  }
+  SCR_NametagConfigComponent "{571AA9E54FC9210D}" {
+   m_sConfigPath "{2C54289741D01AB5}Configs/NameTags/NametagFriendlies.conf"
+  }
+  SCR_NightModeGameModeComponent "{5D50E84688D5A408}" {
+   m_bAllowGlobalNightMode 1
+  }
+  SCR_NotificationSenderComponent "{56FA84B04BE7D4C0}" {
+   m_iKillFeedType DISABLED
+  }
+  SCR_PerceivedFactionManagerComponent "{61AA7E6E0C6A76F9}" {
+   Enabled 0
+  }
+  SCR_PlayerSpawnPointManagerComponent "{56C2DDA69EF94C6D}" {
+   m_bRadioVehicleSpawningEnabled 1
+  }
+  SCR_RespawnSystemComponent "{56B2B4793051E7C9}" {
+   m_SpawnLogic SCR_MenuSpawnLogic "{5D44B78DAD98E7F9}" {
+   }
+  }
+  SCR_RespawnTimerComponent "{56C2DDA6EE0E4071}" {
+   m_fRespawnTime 30
+  }
+  SCR_VotingManagerComponent "{5650BB6B6089393A}" {
+   m_aVotingTemplates {
+    SCR_VotingEditorIn "{58D06C7270F3CE2C}" : "{9DE543906BEAB993}Configs/Voting/EditorIn.conf" {
+    }
+    SCR_VotingEditorOut "{58D06C7271BA2FDE}" : "{FF27A5C582C16A88}Configs/Voting/EditorOut.conf" {
+    }
+    SCR_VotingEditorWithdraw "{5A8A8738B1A4AC19}" : "{D20DE4A96BAFE376}Configs/Voting/EditorWithdraw.conf" {
+    }
+   }
+  }
+  SCR_WelcomeScreenComponent "{5D7290AC8A3E657E}" {
+   m_sHeaderTitle "#AR-Editor_DeployMenu_Screen_Title"
+   m_BaseLayout SCR_WelcomeScreenThreeHorizontalColumns "{5D7290AC92D25160}" {
+    m_LeftColumn SCR_WelcomeScreenIntroductionContent "{5D7290ABF7423AA2}" {
+     m_aIntroduction {
+      SCR_WelcomeScreenIntroduction "{5D7290ABCBFE3176}" {
+       m_sContentImage "{352FDBC685A7FCD8}UI/Textures/DeployMenu/DeployImages/GMDeploy_Player.edds"
+       m_sContentTitleText "#AR-Editor_DeployMenu_Player_Title"
+       m_sContentDescriptionText "#AR-Editor_DeployMenu_Player_Description"
+      }
+     }
+    }
+    m_MiddleColumn SCR_WelcomeScreenIntroductionContent "{5D7290ABF8B7756B}" {
+     m_aIntroduction {
+      SCR_WelcomeScreenIntroduction "{5D729EC0A67A9D46}" {
+       m_sContentImage "{2A9663A5D9B16758}UI/Textures/DeployMenu/DeployImages/GMDeploy_Gamemaster.edds"
+       m_sContentTitleText "#AR-Editor_DeployMenu_Scenario_Title"
+       m_sContentDescriptionText "#AR-Editor_DeployMenu_Scenario_Description"
+      }
+     }
+    }
+    m_RightColumn SCR_WelcomeScreenIntroductionContent "{5D7290ABFF9DBADC}" {
+     m_aIntroduction {
+      SCR_WelcomeScreenIntroduction "{5D729EC0BC408CC1}" {
+       m_sContentImage "{5DFB6BDBD880CB49}UI/Textures/DeployMenu/DeployImages/GMDeploy_BecomeGM.edds"
+       m_sContentTitleText "#AR-Editor_DeployMenu_GM_Rule_Title"
+       m_sContentDescriptionText "#AR-Editor_DeployMenu_GM_Rule_Description"
+      }
+     }
+    }
+   }
+  }
+ }
+ coords 5144.606 165.511 5073.696
+ {
+  SCR_FactionManager "6920D16572EEC9F2" {
+   ID "56E685E92F1B7E7A"
+   Factions {
+    SCR_Faction "{61500924662B6062}" {
+     m_bIsPlayable 1
+    }
+   }
+  }
+  SCR_LoadoutManager {
+   ID "56E685E92F1B7E2A"
+   m_aPlayerLoadouts {
+    SCR_FactionPlayerLoadout "{615827571C5451F3}" {
+     m_sLoadoutName "Rifleman"
+     m_sLoadoutResource "{2CB8539EC892B20A}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Final/Character_UK_Base.et"
+    }
+    SCR_PlayerArsenalLoadout "{6158275702EF191E}" {
+     m_sLoadoutName "GPMP"
+     m_sLoadoutResource "{D918D65E1309AD0A}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Final/Character_UK_GPMG.et"
+    }
+    SCR_PlayerArsenalLoadout "{6920D16FEA5A4336}" {
+     m_sLoadoutName "Sniper"
+     m_sLoadoutResource "{A31FD1BAB87E9B37}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Final/Character_UK_Sniper.et"
+    }
+    SCR_FactionPlayerLoadout "{6920D16B6905EF7C}" {
+     m_sLoadoutName "GPMG"
+     m_sLoadoutResource "{D918D65E1309AD0A}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Final/Character_UK_GPMG.et"
+     m_sAffiliatedFaction "UK"
+    }
+    SCR_FactionPlayerLoadout "{6920D168A52B6235}" {
+     m_sLoadoutName "Sniper"
+     m_sLoadoutResource "{A31FD1BAB87E9B37}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Final/Character_UK_Sniper.et"
+     m_sAffiliatedFaction "UK"
+    }
+    SCR_FactionPlayerLoadout "{6920D16CD1820EEE}" {
+     m_sLoadoutName "HAT"
+     m_sLoadoutResource "{B5DDCCE1312E57C7}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Final/Character_UK_HAT.et"
+     m_sAffiliatedFaction "UK"
+    }
+    SCR_FactionPlayerLoadout "{6920D16E272785F6}" {
+     m_sLoadoutName "CMD"
+     m_sLoadoutResource "{23BE1E20BF36A893}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Final/Character_UK_Cmd.et"
+     m_sAffiliatedFaction "UK"
+    }
+    SCR_FactionPlayerLoadout "{6920D16E25132088}" {
+     m_sLoadoutName "LAT"
+     m_sLoadoutResource "{A2EDF0BDFC65ADA2}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Final/Character_UK_LAT.et"
+     m_sAffiliatedFaction "UK"
+    }
+    SCR_FactionPlayerLoadout "{6920D16E246B3D7B}" {
+     m_sLoadoutName "MEDIC"
+     m_sLoadoutResource "{390DC501B99E1D4B}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Final/Character_UK_Medic.et"
+     m_sAffiliatedFaction "UK"
+    }
+    SCR_FactionPlayerLoadout "{6920D16E239553C3}" {
+     m_sLoadoutName "2IC"
+     m_sLoadoutResource "{A0E908FA9EC368FC}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Final/Character_UK_2iC.et"
+     m_sAffiliatedFaction "UK"
+    }
+   }
+  }
+ }
+}
+$grp GenericEntity {
+ {
+  components {
+   MeshObject "{694B3E9A9C711248}" {
+    Object "{20A62E4E269243F0}Assets/Weapons/Explosives/Mine_TM62M/Mine_TM62M.xob"
+   }
+  }
+  coords 3489.388 206.411 613.95
+  angles -0.834 -136.817 -2.262
+  scale 2.41
+ }
+ {
+  components {
+   MeshObject "{694B3E9A964537C3}" {
+    Object "{20A62E4E269243F0}Assets/Weapons/Explosives/Mine_TM62M/Mine_TM62M.xob"
+   }
+  }
+  coords 3488.532 206.415 614.125
+  angles -0.246 -136.813 0.4
+  scale 2.18
+ }
+ {
+  components {
+   MeshObject "{694B3E9A9C711248}" {
+    Object "{20A62E4E269243F0}Assets/Weapons/Explosives/Mine_TM62M/Mine_TM62M.xob"
+   }
+  }
+  coords 3493.923 206.589 613.427
+  angles -0.834 -136.817 -2.262
+  scale 2.41
+ }
+ {
+  components {
+   MeshObject "{69511317191855AA}" {
+    Object "{506573987356111F}Assets/Garbage_Piles/Trash2.xob"
+   }
+  }
+  coords 3493.801 205.565 616.02
+ }
+ {
+  components {
+   MeshObject "{6951131716387D4F}" {
+    Object "{1A82BF3AFDBB81A3}Assets/Garbage_Piles/Trash.xob"
+   }
+  }
+  coords 3493.512 205.585 614.472
+ }
+}
+$grp StaticModelEntity {
+ {
+  coords 3488.915 205.572 614.93
+  angles 0 171.886 0
+ }
+ {
+  coords 3487.345 205.638 613.445
+  angles 0 171.886 0
+ }
+}
+GenericEntity : "{08F92698449282BD}PrefabsEditable/Mines/E_Mine_L9A1_Barmine.et" {
+ coords 3493.836 206.575 614.354
+ angles 0 -69.314 0
+}
+$grp GenericEntity : "{1679CC7EC6CA5D9F}Prefabs/Models/props/tem_transport_cart.et" {
+ {
+  coords 3557.981 208.718 630.619
+  angles 0 -123.128 0
+ }
+ {
+  coords 3569.274 208.647 647.325
+  angles 0 125.858 0
+ }
+}
+GenericEntity : "{2B0BD0720F8FB3A7}Prefabs/Props/Industrial/Workbench_Vice_01.et" {
+ coords 3493.557 206.582 612.84
+ angles 1.491 -78.404 -1.895
+}
+GenericEntity : "{2B26287DC5B7F9D0}Prefabs/Props/Industrial/ToolBox_01/ToolBox_01_red.et" {
+ coords 3493.02 206.499 616.518
+ angles 2.083 3.677 1.215
+}
+$grp GenericEntity : "{50A752B7D5E679A2}Prefabs/Props/Industrial/Repair/GasWelder_01.et" {
+ {
+  coords 3491.587 205.453 613.091
+  angles 1.998 7.463 1.35
+ }
+ {
+  coords 3490.064 205.565 613.385
+  angles 0 7.728 0
+ }
+}
+SCR_SpawnPoint : "{75262929CD256E99}PrefabsEditable/SpawnPoints/E_SpawnPoint_UK.et" {
+ coords 8371.188 111.531 6970.724
+}
+GenericEntity : "{90A74133C1DC6226}Prefabs/Props/Industrial/Repair/EngineCrane_01.et" {
+ coords 3494.259 204.997 624.45
+ angles -3.993 9.653 7.433
+}
+GenericEntity : "{92BE346D5E0BD792}Prefabs/Props/Military/Fuel/MobileWaterTank_USSR_01_fuel.et" {
+ coords 3491.345 205.309 631.103
+ angles -1.029 -68.979 -2.312
+}
+GenericEntity : "{95D947E744336F78}Prefabs/Props/Industrial/Workbench_01.et" {
+ coords 3494.045 205.565 613.67
+ angles 0 -82.368 0
+}
+$grp GenericEntity : "{A419F4547954DA05}Prefabs/Props/Construction/CableReel/CableReelWooden_01.et" {
+ {
+  coords 3494.168 206.571 612.388
+  angles 0.044 -137.847 -0.075
+  scale 0.12
+ }
+ {
+  coords 3494.095 206.571 612.569
+  angles 0.037 -142.564 -0.078
+  scale 0.12
+ }
+ {
+  coords 3494.213 206.575 612.548
+  angles 0 -137.847 0
+  scale 0.12
+ }
+ {
+  coords 3494.26 206.576 612.717
+  angles 0 -137.847 0
+  scale 0.12
+ }
+ {
+  coords 3494.119 206.63 612.811
+  angles -81.959 -137.847 0
+  scale 0.12
+ }
+ {
+  coords 3494.289 206.582 612.889
+  angles 0 -137.847 0
+  scale 0.12
+ }
+ {
+  coords 3494.224 206.676 612.606
+  angles 0 -137.847 0
+  scale 0.12
+ }
+}
+GameEntity : "{A7B66177C0F997DB}Prefabs/Props/Military/Misc/GroundCrew_01_Trolley/GroundCrew_01_Trolley_Green.et" {
+ coords 3492.707 205.29 611.08
+ angles -1.393 98.674 1.968
+}
+Vehicle Ural4320_transport_filled1 : "{B845B8B82C76BA68}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_transport_filled.et" {
+ coords 3492.392 205.235 627.673
+ angles 0 -76.983 0
+}
+$grp GenericEntity : "{C341CC2629CBAD0A}Prefabs/Props/Industrial/BarrelMetal_01_Closed_Base.et" {
+ {
+  coords 3494.107 205.565 615.503
+  angles 0 -136.817 0
+ }
+ {
+  coords 3491.645 205.565 616.79
+  angles -0.834 -136.817 -2.262
+ }
+}
+$grp GenericEntity : "{C98FCC6CA6C56069}Prefabs/Items/Medicine/AspirinBottle.et" {
+ {
+  coords 3494.349 206.571 614.609
+  angles 0 -137.847 0
+ }
+ {
+  coords 3494.595 206.572 614.619
+  angles 0 -137.847 0
+ }
+ {
+  coords 3494.541 206.568 614.442
+  angles 0 -137.847 0
+ }
+ {
+  coords 3494.537 206.575 614.729
+  angles 0 -137.847 0
+ }
+ {
+  coords 3494.216 206.572 614.351
+  angles 0 -137.847 0
+ }
+ {
+  coords 3494.426 206.568 614.522
+  angles 0 -137.847 0
+ }
+}
+SCR_ChimeraCharacter : "{D56610962CDAD564}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Groups/Heli/Campaign_UK_Player_1989_HeliPilot.et" {
+ coords 5154.575 166.435 5072.107
+}

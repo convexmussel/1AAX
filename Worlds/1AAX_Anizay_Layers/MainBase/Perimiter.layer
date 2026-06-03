@@ -1,0 +1,112 @@
+$grp GenericEntity : "{1816B211F859F64D}Prefabs/Props/Military/BPP_Hesco4x2x_Desert.et" {
+ {
+  coords 8419.67 111.762 6753.884
+  angles 0 35.959 0
+ }
+ {
+  coords 8427.687 111.712 6738.47
+  angles 0 -53.254 0
+ }
+ {
+  coords 8416.879 112.469 6750.037
+  angles 0 35.959 0
+ }
+ {
+  coords 8436.047 112 6727.08
+  angles 0 35.959 0
+ }
+ {
+  coords 8435.889 111.52 6723.743
+  angles 0 -60.703 0
+ }
+ {
+  coords 8425.234 111.379 6761.671
+  angles 0 35.959 0
+ }
+ {
+  coords 8439.992 111.532 6721.429
+  angles 0 -60.703 0
+ }
+ {
+  coords 8422.424 111.364 6757.805
+  angles 0 35.959 0
+ }
+ {
+  coords 8441.622 111.922 6734.688
+  angles 0 34.703 0
+ }
+ {
+  coords 8431.055 111.956 6739.793
+  angles 0 36.1 0
+ }
+ {
+  coords 8438.82 111.861 6730.907
+  angles 0 35.959 0
+ }
+ {
+  coords 8423.862 111.706 6741.365
+  angles 0 -53.254 0
+ }
+ {
+  coords 8448.33 111.471 6716.785
+  angles 0 -60.703 0
+ }
+ {
+  coords 8444.159 111.511 6719.085
+  angles 0 -60.703 0
+ }
+ {
+  coords 8420.054 111.873 6744.262
+  angles 0 -53.254 0
+ }
+}
+$grp GenericEntity : "{25D05A17E3C163F7}Prefabs/Compositions/Misc/CustomEntities/DestructionEntities/BarrelFuel_01_closed_old_CompositionDestruction.et" {
+ {
+  coords 8448.809 111.531 6959.984
+ }
+ {
+  coords 8448.085 111.531 6960.006
+ }
+}
+$grp GenericEntity : "{344536E2BF448926}PrefabsEditable/Auto/Structures/Signs/Military/E_SignFlag_NATO_01_RAS.et" {
+ {
+  coords 8430.984 112.864 6722.696
+  angles -0.098 -140.174 -0.016
+ }
+ OuterSign {
+  coords 8421.792 112.867 6730.521
+  angles 0 -144.535 0
+ }
+}
+$grp GenericEntity : "{72A807138658BE7C}Prefabs/Props/Military/BPP_Hesco_Desert_TerrainMat.et" {
+ {
+  coords 8452.303 111.402 6715.615
+ }
+ {
+  coords 8452.287 112.743 6715.604
+ }
+ {
+  coords 8453.474 112.734 6715.604
+ }
+ {
+  coords 8453.489 111.393 6715.615
+ }
+ {
+  coords 8451.084 111.398 6715.667
+ }
+ {
+  coords 8451.068 112.739 6715.657
+ }
+}
+$grp GenericEntity : "{A2ABD0FBB9FA16AA}PrefabsEditable/Auto/Structures/Military/Flags/E_FlagPole_02_V2_UK.et" {
+ {
+  coords 8436.836 111.605 6726.542
+ }
+ {
+  coords 8428.983 112.069 6738.826
+ }
+}
+Vehicle Tutorial_Engineering_Truck1 : "{F54F833E747C1B77}Prefabs/Vehicles/Wheeled/M923A1/Tutorial_Engineering_Truck.et" {
+ coords 8448.517 111.605 6892.505
+ angles 0 -90 0
+}

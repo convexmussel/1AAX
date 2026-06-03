@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{6CF202DE98BE2C95}Prefabs/Characters/Uniforms/Jacket_Tropical_DesertDPM_01_Worn.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

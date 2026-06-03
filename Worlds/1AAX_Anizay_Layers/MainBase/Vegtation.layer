@@ -1,0 +1,121 @@
+$grp Tree : "{38E5A4080ACD9736}PrefabLibrary/Trees/Palm_06.et" {
+ {
+  coords 8284.509 111.468 7097.688
+ }
+ {
+  coords 8335.786 111.531 7200.132
+ }
+ {
+  coords 8291.722 111.532 6989.129
+ }
+}
+$grp Tree : "{428DEE78E0148558}PrefabLibrary/Trees/Palm_08.et" {
+ {
+  coords 8293.617 111.471 7042.667
+ }
+ {
+  coords 8284.492 111.468 7085.495
+ }
+ {
+  coords 8362.494 111.532 7200.272
+ }
+ {
+  coords 8343.698 111.401 6794.178
+ }
+ {
+  coords 8302.505 111.376 6968.882
+ }
+ {
+  coords 8314.809 112.816 6884.839
+ }
+}
+$grp Tree : "{54B190E8B6091818}PrefabLibrary/Trees/Palm_05.et" {
+ {
+  coords 8368.174 113.787 6781.573
+ }
+ {
+  coords 8309.17 111.478 6872.914
+ }
+}
+$grp Tree : "{9EB75250BECC8A38}PrefabLibrary/Trees/Palm_Tree1.et" {
+ {
+  coords 8281.487 111.47 7144.829
+ }
+ {
+  coords 8302.318 111.374 6887.79
+ }
+ {
+  coords 8306.229 112.791 6920.231
+ }
+ {
+  coords 8349.668 111.782 6788.793
+ }
+}
+$grp Tree : "{A3837768CBA0030F}PrefabLibrary/Trees/Palm_Tree6.et" {
+ {
+  coords 8302.396 111.376 7196.708
+ }
+ {
+  coords 8317.516 113.248 6914.306
+ }
+ {
+  coords 8381.706 111.568 6768.064
+ }
+}
+$grp Tree : "{A711A281ECF11233}PrefabLibrary/Trees/Palm_09.et" {
+ {
+  coords 8280.411 111.47 7118.095
+ }
+ {
+  coords 8279.071 111.375 7018.854
+ }
+ {
+  coords 8345.885 112.692 6815.708
+ }
+}
+$grp Tree : "{B12DDC11BAEC8F73}PrefabLibrary/Trees/Palm_04.et" {
+ {
+  coords 8359.218 113.792 6788.351
+ }
+ {
+  coords 8284.981 111.47 7089.023
+ }
+ {
+  coords 8318.469 112.371 6864.596
+ }
+ {
+  coords 8327.465 111.529 6931.022
+ }
+}
+$grp Tree : "{CFD7438877648C21}PrefabLibrary/Trees/Palm_Tree5.et" {
+ {
+  coords 8283.055 111.42 7170.173
+ }
+ {
+  coords 8328.262 111.378 6833.209
+ }
+ {
+  coords 8314.776 111.911 6930.832
+ }
+}
+$grp Tree : "{DD79E8F10628005D}PrefabLibrary/Trees/Palm_07.et" {
+ {
+  coords 8293.238 111.376 7197.302
+ }
+ {
+  coords 8357.496 111.385 6767.276
+ }
+ {
+  coords 8310.967 114.634 6896.712
+ }
+}
+$grp Tree : "{EBE2D2165FE79D60}PrefabLibrary/Trees/Palm_Small.et" {
+ {
+  coords 8316.98 111.55 6933.597
+  angles 0 0 0
+ }
+ {
+  coords 8286.238 111.47 7075.569
+  angles 0 0 0
+ }
+}

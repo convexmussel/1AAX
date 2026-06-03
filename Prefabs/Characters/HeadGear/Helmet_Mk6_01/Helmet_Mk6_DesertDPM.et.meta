@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{B8EDDED135ACD2DA}Prefabs/Characters/HeadGear/Helmet_Mk6_01/Helmet_Mk6_DesertDPM.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,20 @@
+Vehicle M923A1_MERDC1 : "{14FD2616BAB3157D}Prefabs/Vehicles/Wheeled/M923A1/M923A1_MERDC.et" {
+ coords 8448.489 111.605 6918.597
+ angles 0 -90 0
+}
+Vehicle M923A1_tanker_MERDC1 : "{26013123314183EA}Prefabs/Vehicles/Wheeled/M923A1/M923A1_tanker_MERDC.et" {
+ coords 8448.602 111.605 6912.272
+ angles 0 -90 0
+}
+Vehicle M923A1_command1 : "{36BDCC88B17B3BFA}Prefabs/Vehicles/Wheeled/M923A1/M923A1_command.et" {
+ coords 8378.653 111.532 7011.277
+ angles 0 126.083 0
+}
+Vehicle M923A1_transport_MERDC_filled1 : "{A3786C5C8687F004}Prefabs/Vehicles/Wheeled/M923A1/M923A1_transport_MERDC_filled.et" {
+ coords 8448.344 111.605 6924.854
+ angles 0 -90 0
+}
+Vehicle M923A1_repair_MERDC1 : "{C8656AECF5DF41D9}Prefabs/Vehicles/Wheeled/M923A1/M923A1_repair_MERDC.et" {
+ coords 8447.313 111.605 6879.933
+ angles 0 -90 0
+}

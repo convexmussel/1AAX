@@ -1,0 +1,645 @@
+$grp GenericEntity {
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 7116.209 331.727 3424.87
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 7139.994 333.109 3425.869
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 7134.447 311.482 3408.435
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 7125.491 312.067 3407.3
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 7171.804 333.934 3435.541
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 7199.27 331.684 3453.07
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 7230.51 328.943 3457.195
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 7242.964 326.005 3487.316
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 7249.67 325.629 3520.77
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 7257.528 322.358 3553.895
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 7247.041 322.918 3585.848
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 7235.673 322.717 3618.125
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 7210.371 328.853 3640.905
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 7203.085 326.159 3672.326
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 7196.041 326.508 3701.286
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 7198.474 322.667 3735.716
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 7202.366 321.823 3768.802
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 7193.976 322.483 3799.221
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 7165.737 324.214 3816.48
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 7136.594 324.427 3805.759
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 7114.034 324.277 3782.409
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 7089.405 328.453 3757.739
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 7057.286 328.011 3748.855
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 7027.491 331.933 3737.272
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 6997.99 330.271 3751.888
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 6985.263 332.803 3729.213
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 6973.9 328.629 3699.756
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 6982.318 325.281 3666.854
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 6990.302 324.743 3633.998
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 6997.229 330.128 3601.792
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 6985.626 325.594 3570.716
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 6995.467 326.524 3539.024
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 7015.708 325.862 3511.706
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 7037.457 325.161 3486.521
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 7062.768 326.086 3466.155
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 7088.23 329.933 3445.234
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 7118.415 339.372 3566.479
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 7099.431 337.601 3549.912
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 7119.846 342.488 3605.075
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 7103.47 341.396 3618.343
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 7138.643 340.208 3595.2
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 7074.75 338.651 3571.742
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 7122.577 352.659 3649.019
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 7103.02 352.659 3652.723
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 7126.527 352.659 3669.183
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 7107.112 352.659 3672.806
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 7093.222 358.145 3710.234
+ }
+ {
+  components {
+   MeshObject "{6912E645A5BD4E0D}" {
+    Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+   }
+  }
+  coords 7039.292 355.552 3594.945
+ }
+ {
+  components {
+   MeshObject "{6912E64678935679}" {
+    Object "{01E5327CE6F3006E}Assets/Structures/Military/CamoNets/CamoNet_Tent_Soviet.xob"
+   }
+  }
+  coords 7121.026 336.009 3526.765
+ }
+ {
+  components {
+   MeshObject "{6912E6467B2761B0}" {
+    Object "{01E5327CE6F3006E}Assets/Structures/Military/CamoNets/CamoNet_Tent_Soviet.xob"
+   }
+  }
+  coords 7111.072 337.422 3541.52
+  angles 0 46.021 0
+ }
+}
+$grp GenericEntity : "{1C2CDDF664813C72}PrefabsEditable/Auto/Structures/Military/CamoNets/US/E_CamoNet_Tent_US.et" {
+ {
+  coords 7148.335 324.922 3471.158
+  angles -11.552 -171.791 0
+ }
+ {
+  coords 7148.599 327.956 3485.4
+  angles 14.829 0 0
+ }
+}
+Vehicle BTR70_Base1 : "{1C5FE7B7FF49BB8D}Prefabs/Vehicles/Wheeled/BTR70/BTR70_Base.et" {
+ coords 7146.474 338.774 3546.57
+ angles 0 -148.703 0
+}
+Vehicle S105_rally_RS_1 : "{5FCFD6BC2129AFC6}Prefabs/Vehicles/Wheeled/S105/S105_rally_RS_03.et" {
+ coords 7114.418 339.425 3570.396
+ angles 0 -145.721 0
+}
+StaticModelEntity : "{743D61957A0590F4}PrefabsEditable/Auto/Compositions/Misc/SubCompositions/E_Tent_Medical_Cluttered_USSR_01.et" {
+ coords 7124.759 326.892 3475.669
+ angles 0 70.288 0
+}
+GenericEntity : "{861C7E5089E265AA}PrefabsEditable/Auto/Structures/Military/CamoNets/Soviet/E_CamoNet_Tent_Soviet.et" {
+ coords 7145.803 322.088 3459.616
+ angles 0 -78.46 -11.681
+}
+$grp GenericEntity : "{8BABAE6E7F9B3E39}PrefabsEditable/Auto/Props/Military/Sandbags/E_Sandbag_01_bunker_burlap.et" {
+ {
+  coords 7134.213 330.461 3496.22
+  angles 0 179.365 0
+ }
+ {
+  coords 7121.666 319.771 3449.049
+  angles 0 167.761 0
+ }
+ {
+  coords 7150.563 329.481 3495.571
+  angles 0 -157.29 0
+ }
+ {
+  coords 7140.615 318.661 3445.784
+  angles 0 -145.359 0
+ }
+}
+Vehicle UAZ469_covered_USSR_T_brown1 : "{AE623E56A67E686E}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469_covered_USSR_T_brown.et" {
+ coords 7105.773 338.632 3553.728
+ angles 0 139.006 0
+}
+$grp GenericEntity : "{E88F51EA2338DA40}Prefabs/Props/Fabric/Flags/Flag_2_3_SovietArmy_01.et" {
+ {
+  coords 7116.22 337.218 3424.889
+  angles 0 123.816 0
+ }
+ {
+  coords 7140.005 338.6 3425.888
+  angles 0 123.816 0
+ }
+ {
+  coords 7134.458 316.973 3408.454
+  angles 0 123.816 0
+ }
+ {
+  coords 7125.502 317.558 3407.319
+  angles 0 123.816 0
+ }
+ {
+  coords 7171.815 339.425 3435.56
+  angles 0 123.816 0
+ }
+ {
+  coords 7199.28 337.175 3453.089
+  angles 0 123.816 0
+ }
+ {
+  coords 7230.521 334.434 3457.214
+  angles 0 123.816 0
+ }
+ {
+  coords 7242.975 331.496 3487.335
+  angles 0 123.816 0
+ }
+ {
+  coords 7249.681 331.12 3520.789
+  angles 0 123.816 0
+ }
+ {
+  coords 7257.539 327.849 3553.914
+  angles 0 123.816 0
+ }
+ {
+  coords 7247.051 328.409 3585.867
+  angles 0 123.816 0
+ }
+ {
+  coords 7235.684 328.208 3618.145
+  angles 0 123.816 0
+ }
+ {
+  coords 7210.382 334.344 3640.924
+  angles 0 123.816 0
+ }
+ {
+  coords 7203.096 331.65 3672.345
+  angles 0 123.816 0
+ }
+ {
+  coords 7196.052 331.999 3701.305
+  angles 0 123.816 0
+ }
+ {
+  coords 7198.484 328.158 3735.735
+  angles 0 123.816 0
+ }
+ {
+  coords 7202.376 327.314 3768.822
+  angles 0 123.816 0
+ }
+ {
+  coords 7193.987 327.974 3799.24
+  angles 0 123.816 0
+ }
+ {
+  coords 7165.748 329.705 3816.499
+  angles 0 123.816 0
+ }
+ {
+  coords 7136.605 329.918 3805.778
+  angles 0 123.816 0
+ }
+ {
+  coords 7114.044 329.768 3782.428
+  angles 0 123.816 0
+ }
+ {
+  coords 7089.416 333.944 3757.758
+  angles 0 123.816 0
+ }
+ {
+  coords 7057.296 333.502 3748.874
+  angles 0 123.816 0
+ }
+ {
+  coords 7027.501 337.424 3737.292
+  angles 0 123.816 0
+ }
+ {
+  coords 6998 335.762 3751.907
+  angles 0 123.816 0
+ }
+ {
+  coords 6985.273 338.294 3729.232
+  angles 0 123.816 0
+ }
+ {
+  coords 6973.911 334.12 3699.775
+  angles 0 123.816 0
+ }
+ {
+  coords 6982.329 330.772 3666.873
+  angles 0 123.816 0
+ }
+ {
+  coords 6990.313 330.234 3634.017
+  angles 0 123.816 0
+ }
+ {
+  coords 6997.24 335.619 3601.811
+  angles 0 123.816 0
+ }
+ {
+  coords 6985.637 331.085 3570.735
+  angles 0 123.816 0
+ }
+ {
+  coords 6995.478 332.015 3539.043
+  angles 0 123.816 0
+ }
+ {
+  coords 7015.719 331.353 3511.725
+  angles 0 123.816 0
+ }
+ {
+  coords 7037.467 330.652 3486.54
+  angles 0 123.816 0
+ }
+ {
+  coords 7062.779 331.577 3466.174
+  angles 0 123.816 0
+ }
+ {
+  coords 7088.241 335.424 3445.253
+  angles 0 123.816 0
+ }
+ {
+  coords 7118.426 344.863 3566.498
+  angles 0 123.816 0
+ }
+ {
+  coords 7099.441 343.092 3549.931
+  angles 0 123.816 0
+ }
+ {
+  coords 7119.856 347.979 3605.094
+  angles 0 123.816 0
+ }
+ {
+  coords 7103.481 346.887 3618.362
+  angles 0 123.816 0
+ }
+ {
+  coords 7138.653 345.699 3595.219
+  angles 0 123.816 0
+ }
+ {
+  coords 7074.76 344.142 3571.761
+  angles 0 123.816 0
+ }
+ {
+  coords 7122.588 358.15 3649.038
+  angles 0 123.816 0
+ }
+ {
+  coords 7103.031 358.15 3652.742
+  angles 0 123.816 0
+ }
+ {
+  coords 7126.538 358.15 3669.202
+  angles 0 123.816 0
+ }
+ {
+  coords 7107.123 358.15 3672.825
+  angles 0 123.816 0
+ }
+ {
+  coords 7093.232 363.636 3710.253
+  angles 0 123.816 0
+ }
+ {
+  coords 7039.303 361.043 3594.964
+  angles 0 123.816 0
+ }
+}

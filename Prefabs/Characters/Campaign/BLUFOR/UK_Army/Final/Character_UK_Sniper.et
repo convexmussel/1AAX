@@ -1,0 +1,31 @@
+SCR_ChimeraCharacter : "{2CB8539EC892B20A}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Final/Character_UK_Base.et" {
+ ID "520EC961A090B1EE"
+ components {
+  CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
+   WeaponTemplate "{A004065E3624160C}Prefabs/Weapons/Rifles/PM/Rifle_AI_PM_SF_PM6x42.et"
+  }
+  CharacterWeaponSlotComponent "{520EA1D2F659CFB7}" {
+   WeaponTemplate "{67812A5D844880A5}Prefabs/Weapons/Rifles/MP5/Rifle_MP5.et"
+  }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{610CC3129E7848BC}" {
+     PrefabsToSpawn {
+      "{4EBDF52AD20AC6D1}Prefabs/Weapons/Magazines/Magazine_762x51_AIPM_10rnd_Ball_L2A2.et" "{4EBDF52AD20AC6D1}Prefabs/Weapons/Magazines/Magazine_762x51_AIPM_10rnd_Ball_L2A2.et" "{4EBDF52AD20AC6D1}Prefabs/Weapons/Magazines/Magazine_762x51_AIPM_10rnd_Ball_L2A2.et" "{4EBDF52AD20AC6D1}Prefabs/Weapons/Magazines/Magazine_762x51_AIPM_10rnd_Ball_L2A2.et" "{4EBDF52AD20AC6D1}Prefabs/Weapons/Magazines/Magazine_762x51_AIPM_10rnd_Ball_L2A2.et" "{4EBDF52AD20AC6D1}Prefabs/Weapons/Magazines/Magazine_762x51_AIPM_10rnd_Ball_L2A2.et"
+     }
+    }
+    ItemsInitConfigurationItem "{610CC312DBF11ACA}" {
+     PrefabsToSpawn {
+      "{4EBDF52AD20AC6D1}Prefabs/Weapons/Magazines/Magazine_762x51_AIPM_10rnd_Ball_L2A2.et" "{4EBDF52AD20AC6D1}Prefabs/Weapons/Magazines/Magazine_762x51_AIPM_10rnd_Ball_L2A2.et" "{4EBDF52AD20AC6D1}Prefabs/Weapons/Magazines/Magazine_762x51_AIPM_10rnd_Ball_L2A2.et" "{4EBDF52AD20AC6D1}Prefabs/Weapons/Magazines/Magazine_762x51_AIPM_10rnd_Ball_L2A2.et" "{4EBDF52AD20AC6D1}Prefabs/Weapons/Magazines/Magazine_762x51_AIPM_10rnd_Ball_L2A2.et" "{4EBDF52AD20AC6D1}Prefabs/Weapons/Magazines/Magazine_762x51_AIPM_10rnd_Ball_L2A2.et"
+     }
+    }
+    ItemsInitConfigurationItem "{6920D16815F2DC08}" {
+     TargetStorage "Vest/Vest_ALICE_riflemantest.et/Buttpack/Vest_ALICE_buttpack.et"
+     PrefabsToSpawn {
+      "{046AA0F20A54842A}Prefabs/Weapons/Magazines/Magazine_9x19_MP5_30rnd_Ball.et" "{046AA0F20A54842A}Prefabs/Weapons/Magazines/Magazine_9x19_MP5_30rnd_Ball.et" "{046AA0F20A54842A}Prefabs/Weapons/Magazines/Magazine_9x19_MP5_30rnd_Ball.et" "{046AA0F20A54842A}Prefabs/Weapons/Magazines/Magazine_9x19_MP5_30rnd_Ball.et" "{046AA0F20A54842A}Prefabs/Weapons/Magazines/Magazine_9x19_MP5_30rnd_Ball.et"
+     }
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,33 @@
+SCR_ChimeraCharacter : "{2CB8539EC892B20A}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Final/Character_UK_Base.et" {
+ ID "520EC961A090B1EE"
+ components {
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Back {
+     Prefab "{2DEE1C3D93F591CD}Prefabs/Items/Equipment/Radios/Radio_PRC320.et"
+    }
+   }
+  }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{610CC31428816D50}" {
+     PrefabsToSpawn + {
+      ""
+     }
+    }
+    ItemsInitConfigurationItem "{62A74B5BE373CB7E}" {
+     Enabled 1
+     TargetStorage "Vest/Vest_ALICE_riflemantest.et/Buttpack/Vest_ALICE_buttpack.et"
+     PrefabsToSpawn {
+      "{1F9E536AD45F48C7}Prefabs/Weapons/Explosives/DemoBlock_PE4/DemoBlock_PE4.et" "{1F9E536AD45F48C7}Prefabs/Weapons/Explosives/DemoBlock_PE4/DemoBlock_PE4.et"
+     }
+    }
+    ItemsInitConfigurationItem "{610CC3129FF70707}" {
+     PrefabsToSpawn {
+      "{CE179546A16382BA}Prefabs/Weapons/Grenades/Grenade_L2A2.et" "{4A0C772C62E04F0C}Prefabs/Weapons/Attachments/Bayonets/Bayonet_L3A1_L85.et" "{96FFE213B19D1D57}Prefabs/Weapons/Grenades/Smoke_No80_WP.et" "{B1798B0F1258B765}Prefabs/Items/Equipment/Navigation/DAGR/DAGR.et"
+     }
+    }
+   }
+  }
+ }
+}
