@@ -1,0 +1,485 @@
+{
+  "bindAddress": "192.168.2.12",
+  "bindPort": 2001,
+  "publicAddress": "",
+  "publicPort": 2001,
+      "a2s": {
+        "address": "192.168.2.12"
+    },
+  "game": {
+	  "admins": ["76561198066652251", "76561198048822882"],
+      "name": "1AAX Operation Silent Dune",
+      "password": "1AAX",
+      "passwordAdmin": "Beans",
+      "maxPlayers": 50,
+      "scenarioId": "{F45C6C15D31252E6}Missions/27_GM_Cain.conf",
+      "gameProperties": {
+          "serverMaxViewDistance": 4000,
+          "networkViewDistance": 4000,
+          "serverMinGrassDistance": 50,
+          "battlEye": true,
+          "disableThirdPerson": false,
+          "VONDisableUI": false,
+          "VONDisableDirectSpeechUI": false,
+          "VONCanTransmitCrossFaction": true
+      },
+      "visible": true,
+      "crossPlatform": false,
+      "mods": [	{
+		"modId": "663CE51EDA031586",
+		"name": "ACE Surrender",
+		"version": "1.0.5"
+	},
+	{
+		"modId": "61C408151551966F",
+		"name": "Just More Buildings",
+		"version": "0.0.6"
+	},
+	{
+		"modId": "631C0CCC3F4506CB",
+		"name": "Realism Overhaul - Vehicles",
+		"version": "1.6.0"
+	},
+	{
+		"modId": "6632F94B46173164",
+		"name": "Rayzi Utils",
+		"version": "1.0.12"
+	},
+	{
+		"modId": "648EF4DF7B2F7D3A",
+		"name": "WCS_Weather",
+		"version": "6.0.7"
+	},
+	{
+		"modId": "64854C15BAC7BF71",
+		"name": "Zees Military Props",
+		"version": "1.0.2"
+	},
+	{
+		"modId": "628933A0D3A0D700",
+		"name": "WCS_Mi-24V",
+		"version": "7.0.0"
+	},
+	{
+		"modId": "5D9ECAD071E9ECBC",
+		"name": "HmmwvVariants",
+		"version": "1.0.77"
+	},
+	{
+		"modId": "60B524F7A5AE96A8",
+		"name": "ArmaTerrainCore",
+		"version": "1.1.8"
+	},
+	{
+		"modId": "65651694F5D27C8D",
+		"name": "TalibanMod Red Side V2",
+		"version": "1.0.8"
+	},
+	{
+		"modId": "5964E0B3BB7410CE",
+		"name": "Game Master Enhanced",
+		"version": "1.3.6"
+	},
+	{
+		"modId": "629B2BA37EFFD577",
+		"name": "WCS_Armaments",
+		"version": "7.0.0"
+	},
+	{
+		"modId": "631CC0C323562CC7",
+		"name": "Realism Overhaul - Lighting",
+		"version": "1.6.3"
+	},
+	{
+		"modId": "5C9691EA7FD7A79F",
+		"name": "KunarProvince",
+		"version": "1.0.50"
+	},
+	{
+		"modId": "60C4C12DAE90727B",
+		"name": "ACE Medical Core",
+		"version": "1.4.3"
+	},
+	{
+		"modId": "64DE57C0A1601D14",
+		"name": "Lunacy Audio",
+		"version": "2.1.2"
+	},
+	{
+		"modId": "68B2E735099BA541",
+		"name": "AI Using Stingers",
+		"version": "1.0.19"
+	},
+	{
+		"modId": "62BF23AA7C9839E4",
+		"name": "Eurofighter Typhoon - props",
+		"version": "1.0.1"
+	},
+	{
+		"modId": "64FB0148B8957DEE",
+		"name": "British Forces Desert DPM",
+		"version": "1.0.4"
+	},
+	{
+		"modId": "672358F1AE7137BE",
+		"name": "Better Rotor Wash",
+		"version": "1.0.3"
+	},
+	{
+		"modId": "624732FAB6DF1DEA",
+		"name": "Prontos Westland Lynx",
+		"version": "1.0.18"
+	},
+	{
+		"modId": "61957C5C6FB7A773",
+		"name": "H-47 Chinook",
+		"version": "0.7.13"
+	},
+	{
+		"modId": "62FCEB51DF8527B6",
+		"name": "Improved Blood Effect",
+		"version": "1.5.8"
+	},
+	{
+		"modId": "656B3A0955474CB7",
+		"name": "ADSSway - RHS",
+		"version": "1.0.9"
+	},
+	{
+		"modId": "612F512CD4CB21D5",
+		"name": "WCS_Earplugs",
+		"version": "7.0.0"
+	},
+	{
+		"modId": "646D52AF8BB3FF15",
+		"name": "ACE Captives",
+		"version": "1.4.3"
+	},
+	{
+		"modId": "5A7B79D8A910A4D1",
+		"name": "Better Weapon Immersion 2.8",
+		"version": "2.8.0"
+	},
+	{
+		"modId": "5DBD560C5148E1DA",
+		"name": "ACE Carrying",
+		"version": "1.4.3"
+	},
+	{
+		"modId": "60EAEA0389DB3CC2",
+		"name": "ACE Trenches",
+		"version": "1.4.3"
+	},
+	{
+		"modId": "6266DCA9193C705E",
+		"name": "Anizay",
+		"version": "1.0.11"
+	},
+	{
+		"modId": "5EB744C5F42E0800",
+		"name": "ACE Chopping",
+		"version": "1.4.3"
+	},
+	{
+		"modId": "61D57616CAFBB23D",
+		"name": "WCS_LoadoutEditor",
+		"version": "7.0.0"
+	},
+	{
+		"modId": "648D682E7038491E",
+		"name": "ADSSway - Core",
+		"version": "0.3.42"
+	},
+	{
+		"modId": "631D61C22E30D845",
+		"name": "Realism Overhaul - Effects",
+		"version": "1.6.3"
+	},
+	{
+		"modId": "697B539C6B2E8A10",
+		"name": "TGTV_DeathTracker",
+		"version": "1.0.0"
+	},
+	{
+		"modId": "64B119835976183D",
+		"name": "VON UI Simplification",
+		"version": "1.0.5"
+	},
+	{
+		"modId": "5E389BB9F58B79A6",
+		"name": "SpaceCore",
+		"version": "7.0.0"
+	},
+	{
+		"modId": "670E8DD9DA6ADF59",
+		"name": "Fix_RealismSounds_WCS-Earplugs",
+		"version": "0.0.1"
+	},
+	{
+		"modId": "61ECB5EFAA346151",
+		"name": "TacticalAnimationOverhaul TEST",
+		"version": "2.0.71"
+	},
+	{
+		"modId": "64CB35D07BAEE60F",
+		"name": "WCS_KA-52",
+		"version": "7.0.0"
+	},
+	{
+		"modId": "65E627280DA96CEE",
+		"name": "Parachute",
+		"version": "0.0.13"
+	},
+	{
+		"modId": "64AB5D83872CCF87",
+		"name": "Realism Overhaul - Weather",
+		"version": "1.6.1"
+	},
+	{
+		"modId": "595F2BF2F44836FB",
+		"name": "RHS - Status Quo",
+		"version": "0.15.4955"
+	},
+	{
+		"modId": "69147054350BF3CB",
+		"name": "1AAX",
+		"version": "1.0.18"
+	},
+	{
+		"modId": "60C4CE4888FF4621",
+		"name": "ACE Core",
+		"version": "1.4.4"
+	},
+	{
+		"modId": "691344CF54334BAF",
+		"name": "27th MEU Group Name Preserve",
+		"version": "1.1.11"
+	},
+	{
+		"modId": "6608FD6F58F3B90A",
+		"name": "ADSSway - PIP DOF - TEST",
+		"version": "1.0.9"
+	},
+	{
+		"modId": "66AF528169E54227",
+		"name": "No More Talky",
+		"version": "1.0.1"
+	},
+	{
+		"modId": "68B86915142F2E70",
+		"name": "80s Hits Radio",
+		"version": "1.0.1"
+	},
+	{
+		"modId": "611CB1D409001EB0",
+		"name": "ACE Magazine Repack",
+		"version": "1.4.3"
+	},
+	{
+		"modId": "5E0AB16BEB16D6A4",
+		"name": "T-72 Main Battle Tank",
+		"version": "1.2.20"
+	},
+	{
+		"modId": "5C961A93A16EB866",
+		"name": "British Armed Forces Vehicles",
+		"version": "1.1.29"
+	},
+	{
+		"modId": "60E573C9B04CC408",
+		"name": "ACE Backblast",
+		"version": "1.4.3"
+	},
+	{
+		"modId": "685435EC52D5065B",
+		"name": "British Hueys 2.0",
+		"version": "2.0.0"
+	},
+	{
+		"modId": "646E249764095363",
+		"name": "T.A.O RHS AND WP PACK COMPAT",
+		"version": "1.0.9"
+	},
+	{
+		"modId": "684608DD7C7E0DFB",
+		"name": "Aiming Deadzone",
+		"version": "1.0.21"
+	},
+	{
+		"modId": "6326F0C7E748AB8A",
+		"name": "WCS_AH-64D_Upgrade",
+		"version": "7.0.0"
+	},
+	{
+		"modId": "64C57EA1C4934CA5",
+		"name": "Driver Only Third Person",
+		"version": "1.0.2"
+	},
+	{
+		"modId": "65EF16962A8D9840",
+		"name": "Press Gear - Expanded",
+		"version": "2.2.5"
+	},
+	{
+		"modId": "63120AE07E6C0966",
+		"name": "M2 Bradley Fighting Vehicle",
+		"version": "7.0.0"
+	},
+	{
+		"modId": "62E354B50264C08F",
+		"name": "Project Sonar - Radio Stations",
+		"version": "1.1.14"
+	},
+	{
+		"modId": "686F45C37F583C07",
+		"name": "BATTLEKOT PROPS",
+		"version": "1.0.1"
+	},
+	{
+		"modId": "64475DC102F2BDA4",
+		"name": "ACE Radio",
+		"version": "1.4.3"
+	},
+	{
+		"modId": "66D74CE7E94C5D05",
+		"name": "British Forces - Truck Utility",
+		"version": "1.0.3"
+	},
+	{
+		"modId": "611E89E87E9048DA",
+		"name": "WCS_IGLA",
+		"version": "1.0.8"
+	},
+	{
+		"modId": "6167529D6B3F6BE4",
+		"name": "Insurgents SAF",
+		"version": "1.0.0"
+	},
+	{
+		"modId": "6052A9DD45564825",
+		"name": "You can sit",
+		"version": "1.0.8"
+	},
+	{
+		"modId": "697F18E275C625EB",
+		"name": "RAF C-130",
+		"version": "1.0.8"
+	},
+	{
+		"modId": "69343584B4FC76C1",
+		"name": "Redneck Radio",
+		"version": "1.1.1"
+	},
+	{
+		"modId": "697CAA15FA9B7BF0",
+		"name": "YouCanSitFix",
+		"version": "1.0.0"
+	},
+	{
+		"modId": "5F1EE615E7AE3106",
+		"name": "BGONE",
+		"version": "1.1.25"
+	},
+	{
+		"modId": "65E0AE1A83DA063A",
+		"name": "Russian to Arabic",
+		"version": "1.0.7"
+	},
+	{
+		"modId": "62C6DD26097FC89B",
+		"name": "RiverX OH-58D Kiowa Warrior",
+		"version": "1.0.7"
+	},
+	{
+		"modId": "59BA048FA618471A",
+		"name": "Shrapnel 2.1",
+		"version": "2.1.3"
+	},
+	{
+		"modId": "BADC0DEDABBEDA5E",
+		"name": "RHS - Content Pack 02",
+		"version": "0.15.4955"
+	},
+	{
+		"modId": "653942F38B7C23DE",
+		"name": "Realism Overhaul - Map",
+		"version": "1.6.2"
+	},
+	{
+		"modId": "63294BA2D9F0339B",
+		"name": "WCS_ZU-23-2",
+		"version": "7.0.0"
+	},
+	{
+		"modId": "5994AD5A9F33BE57",
+		"name": "Game Master FX",
+		"version": "1.6.2"
+	},
+	{
+		"modId": "65860252A17554C7",
+		"name": "ACE Medical Hitzones",
+		"version": "1.4.3"
+	},
+	{
+		"modId": "62AE96D92179F7A0",
+		"name": "WCS_AH-6M_Upgrade",
+		"version": "7.0.0"
+	},
+	{
+		"modId": "606C369BAC3F6CC3",
+		"name": "ACE Finger",
+		"version": "1.4.3"
+	},
+	{
+		"modId": "609E138FE9005877",
+		"name": "Mi-28",
+		"version": "1.0.9"
+	},
+	{
+		"modId": "663A102656241873",
+		"name": "Mammoth Radio Station",
+		"version": "1.0.3"
+	},
+	{
+		"modId": "5E524E4FEECCA92B",
+		"name": "BMP-1 IFV",
+		"version": "1.1.6"
+	},
+	{
+		"modId": "65854AB65C6ECEBD",
+		"name": "ADSSway - British Forces",
+		"version": "1.0.5"
+	},
+	{
+		"modId": "1337C0DE5DABBEEF",
+		"name": "RHS - Content Pack 01",
+		"version": "0.15.4955"
+	},
+	{
+		"modId": "5AE50EC5B8D6F4AE",
+		"name": "British Forces",
+		"version": "1.0.64"
+	},
+	{
+		"modId": "60ED3CC6E7E40221",
+		"name": "Sikorsky H60 Project",
+		"version": "0.6.54"
+	},
+	{
+		"modId": "65254226BB9B318C",
+		"name": "Disable AI Voice",
+		"version": "1.0.4"
+	},
+	{
+		"modId": "666947D8218E3B3F",
+		"name": "GM Trenches",
+		"version": "1.0.0"
+	}
+			]
+  },
+  "operating": {
+      "joinQueue": {
+          "maxSize": 5
+      }
+  }
+}
