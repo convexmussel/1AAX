@@ -12,7 +12,7 @@
       "password": "1AAX",
       "passwordAdmin": "Beans",
       "maxPlayers": 50,
-      "scenarioId": "{F45C6C15D31252E6}Missions/27_GM_Cain.conf",
+      "scenarioId": "{5F35B4C29EE9FD33}Missions/Second.conf",
       "gameProperties": {
           "serverMaxViewDistance": 4000,
           "networkViewDistance": 4000,
@@ -25,7 +25,8 @@
       },
       "visible": true,
       "crossPlatform": false,
-      "mods": [		{
+      "mods": [	
+	{
 		"modId": "663CE51EDA031586",
 		"name": "ACE Surrender",
 		"version": "1.0.5"
@@ -34,6 +35,11 @@
 		"modId": "69389797227E64A8",
 		"name": "C-130J Super Hercules",
 		"version": "0.0.19"
+	},
+	{
+		"modId": "64722DADC53CB75E",
+		"name": "NV-System",
+		"version": "1.0.23"
 	},
 	{
 		"modId": "648EF4DF7B2F7D3A",
@@ -54,6 +60,11 @@
 		"modId": "5D9ECAD071E9ECBC",
 		"name": "HmmwvVariants",
 		"version": "1.0.77"
+	},
+	{
+		"modId": "629B2BA37EFFD577",
+		"name": "WCS_Armaments",
+		"version": "7.0.0"
 	},
 	{
 		"modId": "60C4C12DAE90727B",
@@ -146,6 +157,11 @@
 		"version": "7.0.0"
 	},
 	{
+		"modId": "65E627280DA96CEE",
+		"name": "Parachute",
+		"version": "0.0.13"
+	},
+	{
 		"modId": "64AB5D83872CCF87",
 		"name": "Realism Overhaul - Weather",
 		"version": "1.6.1"
@@ -158,7 +174,7 @@
 	{
 		"modId": "69147054350BF3CB",
 		"name": "1AAX",
-		"version": "1.0.18"
+		"version": "1.0.19"
 	},
 	{
 		"modId": "60C4CE4888FF4621",
@@ -196,6 +212,11 @@
 		"version": "1.0.20"
 	},
 	{
+		"modId": "64EE818E08AFCF94",
+		"name": "MFD Framework",
+		"version": "0.4.6"
+	},
+	{
 		"modId": "5E0AB16BEB16D6A4",
 		"name": "T-72 Main Battle Tank",
 		"version": "1.2.20"
@@ -210,11 +231,7 @@
 		"name": "British Armed Forces Vehicles",
 		"version": "1.1.29"
 	},
-	{
-		"modId": "685435EC52D5065B",
-		"name": "British Hueys 2.0",
-		"version": "2.0.0"
-	},
+
 
 	{
 		"modId": "6326F0C7E748AB8A",
@@ -226,10 +243,11 @@
 		"name": "Driver Only Third Person",
 		"version": "1.0.2"
 	},
+
 	{
 		"modId": "68746C2DCDABB93D",
 		"name": "REAPER_NH-90 HQ",
-		"version": "1.0.5"
+		"version": "1.0.6"
 	},
 	{
 		"modId": "63120AE07E6C0966",
@@ -292,11 +310,6 @@
 		"version": "0.15.4955"
 	},
 	{
-		"modId": "6896852984E00689",
-		"name": "M777 Lunacy Compatibility",
-		"version": "1.0.1"
-	},
-	{
 		"modId": "63294BA2D9F0339B",
 		"name": "WCS_ZU-23-2",
 		"version": "7.0.0"
@@ -321,6 +334,7 @@
 		"name": "ACE Finger",
 		"version": "1.4.3"
 	},
+
 	{
 		"modId": "609E138FE9005877",
 		"name": "Mi-28",
@@ -361,6 +375,38 @@
 		"name": "GM Trenches",
 		"version": "1.0.0"
 	},
+		{
+		"modId": "69490D9D816EAEA9",
+		"name": "ParaVics",
+		"version": "1.2.25"
+	},
+		{
+		"modId": "6979745AC1726EC6",
+		"name": "ParaVics C-130J Compat",
+		"version": "1.0.1"
+	},
+		{
+		"modId": "697912CB88357B9E",
+		"name": "ParaVics Base Assets Compat",
+		"version": "1.0.1"
+	},
+
+				{
+		"modId": "686AC479236F235D",
+		"name": "M777 Howitzer Artillery",
+		"version": "2.0.7"
+	},
+		{
+		"modId": "69796A20A44FED0B",
+		"name": "ParaVics M777 Howitzer Compat",
+		"version": "1.0.0"
+	},
+		{
+		"modId": "6896852984E00689",
+		"name": "M777 Lunacy Compatibility",
+		"version": "1.0.1"
+	},
+
 		{
 		"modId": "646E249764095363",
 		"name": "T.A.O RHS AND WP PACK COMPAT",
