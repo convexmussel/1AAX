@@ -1,0 +1,65 @@
+$grp SCR_ChimeraCharacter : "{28524766EBA3A71D}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Final/Character_UK_LMG.et" {
+ {
+  coords 2709.704 8 3092.425
+  angles 0 174.302 0
+ }
+ {
+  coords 2712.931 8 3090.279
+  angles 0 -136.871 0
+ }
+ {
+  coords 2698.495 8 3081.708
+  angles 0 -7.495 0
+ }
+}
+Vehicle BF_BRDM2_Conflict_UK1 : "{44338ACCBD5D7D29}Prefabs/Vehicles/Wheeled/Conflict_Variants/BF_BRDM2_Conflict_UK.et" {
+ coords 2704.973 8 3079.572
+ angles 0 -55.653 0
+}
+Vehicle M923A1_tanker_UK1 : "{6B3DF3AEFC3B0B16}Prefabs/Vehicles/Wheeled/M923A1/M923A1_tanker_UK.et" {
+ coords 2709.111 8 3086.846
+ angles 0 -56.454 0
+}
+SCR_SpawnPoint : "{75262929CD256E99}PrefabsEditable/SpawnPoints/E_SpawnPoint_UK.et" {
+ coords 2733.103 8.102 3069.117
+ scale 0.5
+}
+$grp SCR_ChimeraCharacter : "{9F18A2085929AFA4}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Final/Character_UK_Charlie.et" {
+ {
+  coords 2712.549 8.007 3089.294
+  angles 0 -29.891 0
+ }
+ {
+  coords 2745.389 8.102 3061.112
+  angles 0 92.575 0
+ }
+ {
+  coords 2716.752 8.045 3090.255
+ }
+}
+$grp GenericEntity : "{A80E80B60FEAE52D}PrefabsEditable/Auto/Structures/Military/Flags/E_FlagPole_02_V1_UK.et" {
+ {
+  coords 2747.847 8.102 3063.808
+ }
+ {
+  coords 2709.921 8 3093.089
+ }
+ {
+  coords 2713.543 8 3090.847
+ }
+ {
+  coords 2743.477 8.102 3057.191
+ }
+}
+SCR_ChimeraCharacter : "{D56610962CDAD564}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Groups/Heli/Campaign_UK_Player_1989_HeliPilot.et" {
+ coords 2703.789 8 3082.404
+ angles 0 161.293 0
+}
+SCR_ChimeraCharacter : "{D918D65E1309AD0A}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Final/Character_UK_GPMG.et" {
+ coords 2716.136 8 3091.598
+ angles 0 109.061 0
+}
+Vehicle M923A1_transport_covered_UK_Filled1 : "{ED36E8E78A4EAC43}Prefabs/Vehicles/Wheeled/M923A1/M923A1_transport_covered_UK_Filled.et" {
+ coords 2706.991 8 3082.974
+ angles 0 -56.374 0
+}

@@ -1,0 +1,116 @@
+GenericEntity : "{246C60FDE9B73D97}Prefabs/Vehicles/Wheeled/M923A1/VehParts/M923A1_MERDC_repair_box.et" {
+ coords 2735.375 8.512 3197.67
+ angles 0 -55.99 0
+}
+$grp SCR_ChimeraCharacter : "{28524766EBA3A71D}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Final/Character_UK_LMG.et" {
+ {
+  coords 2753.57 10.1 3201.156
+  angles 0 123.916 0
+ }
+ {
+  coords 2747.124 10.046 3191.052
+  angles 0 123.916 0
+ }
+}
+SCR_DestructibleBuildingEntity : "{6A8FF322CBD99236}Prefabs/Structures/Military/Bunkers/AircraftShelter_E_01/AircraftShelter_E_01_green.et" {
+ coords 2749.236 0.043 3196.591
+ angles 0 122.111 0
+ {
+  GenericEntity {
+   ID "61DEE26D9D0BD4EB"
+   coords 5.188 0 0
+  }
+  GenericEntity {
+   ID "61DEE26D9D0BD4FA"
+   coords -5.727 0 0
+  }
+ }
+}
+GenericEntity : "{7BDF328BCC1331B7}Prefabs/Compositions/Misc/SubCompositions/Furniture/Table_Desk_US_07.et" {
+ coords 2744.9 10.043 3193.411
+ angles 0 -134.32 0
+}
+$grp SCR_ChimeraCharacter : "{9F18A2085929AFA4}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Final/Character_UK_Charlie.et" {
+ {
+  components {
+   SCR_CharacterRankComponent "{528E6D4286AA2D8F}" {
+    m_iRank MAJOR
+   }
+   CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
+    HolsteredIndex 0
+   }
+  }
+  coords 2744.729 10 3192.064
+  angles 0 155.755 0
+ }
+ {
+  components {
+   SCR_CharacterRankComponent "{528E6D4286AA2D8F}" {
+    m_iRank MAJOR
+   }
+   CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
+    HolsteredIndex 0
+   }
+  }
+  coords 2743.271 10.043 3193.226
+  angles 0 -150.641 0
+ }
+}
+$grp GenericEntity : "{A80E80B60FEAE52D}PrefabsEditable/Auto/Structures/Military/Flags/E_FlagPole_02_V1_UK.et" {
+ {
+  coords 2748.715 10 3189.507
+  angles 0 -60.567 0
+ }
+ {
+  coords 2756.201 10 3200.75
+  angles 0 -57.11 0
+ }
+}
+SCR_ChimeraCharacter : "{A9CE8C72E491D0C0}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Final/Character_UK_JTAC.et" {
+ components {
+  CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
+   WeaponTemplate "{6BE5346DC96E4C96}Prefabs/Props/Civilian/PaperHolder_01/PaperHolder_01_base.et"
+  }
+ }
+ coords 2740.184 10.043 3209.307
+ angles 0 41.567 0
+}
+GenericEntity : "{B040FFB16A472A5D}PrefabsEditable/Auto/Compositions/Misc/SubCompositions/Furniture/E_Table_Desk_USSR_06_Logistics.et" {
+ coords 2742.66 10.043 3192.861
+ angles 0 57.8 0
+}
+GenericEntity : "{C9D3E3DC107A003B}Prefabs/Structures/Houses/Village/HouseAddon_Workshop_E_01/Furniture/HouseAddon_Workshop_E_01_furniture_01.et" {
+ coords 2738.393 9.74 3207.921
+ angles 0 -147.447 0
+ {
+  GenericEntity {
+   ID "58687E15B704351E"
+   coords 2.457 0.3 -2.905
+  }
+  GenericEntity {
+   ID "58687E15B70435A5"
+   coords -2.011 0.207 -2.664
+   angles -0.309 3.384 2.641
+  }
+  GenericEntity {
+   ID "58687E15B70435C9"
+   coords -2.881 0.215 -2.591
+   angles 33.353 -118.035 -15.774
+  }
+ }
+}
+SCR_DestructibleBuildingEntity : "{CBB9E610563A5C3E}Prefabs/Structures/Military/Airport/MooringMast_01/MooringMast_01_base.et" {
+ coords 2742.236 0 3176.043
+ angles 0 91.838 0
+}
+SCR_ChimeraCharacter : "{D56610962CDAD564}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Groups/Heli/Campaign_UK_Player_1989_HeliPilot.et" {
+ components {
+  CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
+   HolsteredIndex 0
+  }
+ }
+ coords 2748.988 10.043 3204.871
+}
+GenericEntity : "{F6E6562320289771}PrefabsEditable/Auto/Compositions/Misc/SubCompositions/Furniture/E_Table_Desk_US_10_Logistics.et" {
+ coords 2744.677 10.043 3191.297
+}
