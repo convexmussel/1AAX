@@ -94,7 +94,7 @@ SCR_GameModeEditor GameMode_Editor_Full : "{DA3986AF1B5032B7}Prefabs/MP/Modes/Ed
    m_iSetWeatherConstant 1
   }
   SCR_NametagConfigComponent "{571AA9E54FC9210D}" {
-   m_sConfigPath "{2C54289741D01AB5}Configs/NameTags/NametagFriendlies.conf"
+   m_sConfigPath "{09F7AAA14A642683}Configs/NameTags/NametagFriendlies.conf"
   }
   SCR_NightModeGameModeComponent "{5D50E84688D5A408}" {
    m_bAllowGlobalNightMode 1
@@ -170,55 +170,6 @@ SCR_GameModeEditor GameMode_Editor_Full : "{DA3986AF1B5032B7}Prefabs/MP/Modes/Ed
   }
   SCR_LoadoutManager {
    ID "56E685E92F1B7E2A"
-   m_aPlayerLoadouts {
-    SCR_FactionPlayerLoadout "{615827571C5451F3}" {
-     m_sLoadoutName "Rifleman"
-     m_sLoadoutResource "{2CB8539EC892B20A}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Final/Character_UK_Base.et"
-    }
-    SCR_PlayerArsenalLoadout "{6158275702EF191E}" {
-     m_sLoadoutName "GPMP"
-     m_sLoadoutResource "{D918D65E1309AD0A}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Final/Character_UK_GPMG.et"
-    }
-    SCR_PlayerArsenalLoadout "{6920D16FEA5A4336}" {
-     m_sLoadoutName "Sniper"
-     m_sLoadoutResource "{A31FD1BAB87E9B37}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Final/Character_UK_Sniper.et"
-    }
-    SCR_FactionPlayerLoadout "{6920D16B6905EF7C}" {
-     m_sLoadoutName "GPMG"
-     m_sLoadoutResource "{D918D65E1309AD0A}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Final/Character_UK_GPMG.et"
-     m_sAffiliatedFaction "UK"
-    }
-    SCR_FactionPlayerLoadout "{6920D168A52B6235}" {
-     m_sLoadoutName "Sniper"
-     m_sLoadoutResource "{A31FD1BAB87E9B37}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Final/Character_UK_Sniper.et"
-     m_sAffiliatedFaction "UK"
-    }
-    SCR_FactionPlayerLoadout "{6920D16CD1820EEE}" {
-     m_sLoadoutName "HAT"
-     m_sLoadoutResource "{B5DDCCE1312E57C7}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Final/Character_UK_HAT.et"
-     m_sAffiliatedFaction "UK"
-    }
-    SCR_FactionPlayerLoadout "{6920D16E272785F6}" {
-     m_sLoadoutName "CMD"
-     m_sLoadoutResource "{23BE1E20BF36A893}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Final/Character_UK_Cmd.et"
-     m_sAffiliatedFaction "UK"
-    }
-    SCR_FactionPlayerLoadout "{6920D16E25132088}" {
-     m_sLoadoutName "LAT"
-     m_sLoadoutResource "{A2EDF0BDFC65ADA2}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Final/Character_UK_LAT.et"
-     m_sAffiliatedFaction "UK"
-    }
-    SCR_FactionPlayerLoadout "{6920D16E246B3D7B}" {
-     m_sLoadoutName "MEDIC"
-     m_sLoadoutResource "{390DC501B99E1D4B}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Final/Character_UK_Medic.et"
-     m_sAffiliatedFaction "UK"
-    }
-    SCR_FactionPlayerLoadout "{6920D16E239553C3}" {
-     m_sLoadoutName "2IC"
-     m_sLoadoutResource "{A0E908FA9EC368FC}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Final/Character_UK_2iC.et"
-     m_sAffiliatedFaction "UK"
-    }
-   }
   }
  }
 }

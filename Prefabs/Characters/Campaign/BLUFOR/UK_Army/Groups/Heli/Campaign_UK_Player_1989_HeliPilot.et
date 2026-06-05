@@ -21,6 +21,19 @@ SCR_ChimeraCharacter : "{8329B91DB26C922D}Prefabs/Characters/Factions/BLUFOR/UK_
   }
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
+    ItemsInitConfigurationItem "{610CC31428816D50}" {
+     PrefabsToSpawn +{
+     }
+    }
+    ItemsInitConfigurationItem "{62A74B5BE373CB7E}" {
+     TargetStorage "Hat/Helmet_OPSCORE_MID_MC.et"
+    }
+    ItemsInitConfigurationItem "{610CC3129E7848BC}" {
+     TargetStorage "Vest/Vest_SRU21P_UK.et"
+    }
+    ItemsInitConfigurationItem "{610CC3129FF70707}" {
+     TargetStorage "Vest/Vest_SRU21P_UK.et"
+    }
     ItemsInitConfigurationItem "{610CC312DBF11ACA}" {
      PrefabsToSpawn {
       "{046AA0F20A54842A}Prefabs/Weapons/Magazines/Magazine_9x19_MP5_30rnd_Ball.et" "{046AA0F20A54842A}Prefabs/Weapons/Magazines/Magazine_9x19_MP5_30rnd_Ball.et" "{9361BEC03E52E6F8}Prefabs/Weapons/Handguns/Handheld Rocket Flares/Schermuly/Schermuly_Rocket_Flare_White.et" "{CE4BDC1B0C4C6965}Prefabs/Weapons/Handguns/Handheld Rocket Flares/Schermuly/Schermuly_Rocket_Flare_Orange.et"
@@ -32,8 +45,15 @@ SCR_ChimeraCharacter : "{8329B91DB26C922D}Prefabs/Characters/Factions/BLUFOR/UK_
       "{9A9555D10664B8CB}Prefabs/Items/Equipment/Nightvision/PVS14/NVG_PVS14_WP.et"
      }
     }
+    ItemsInitConfigurationItem "{698AFEA3771D53C0}" {
+     TargetStorage "Vest/Vest_SRU21P_UK.et"
+     TargetPurpose 64
+     PrefabsToSpawn {
+      "{D13A99EEED51784B}Prefabs/Items/Equipment/Flashlights/Flashlight_UK.et"
+     }
+    }
    }
   }
  }
- coords 5154.575 166.435 5072.107
+ coords 5020.33 157.954 5055.746
 }

@@ -27,6 +27,11 @@ SCR_ChimeraCharacter : "{2CB8539EC892B20A}Prefabs/Characters/Campaign/BLUFOR/UK_
       "{CE179546A16382BA}Prefabs/Weapons/Grenades/Grenade_L2A2.et" "{4A0C772C62E04F0C}Prefabs/Weapons/Attachments/Bayonets/Bayonet_L3A1_L85.et" "{96FFE213B19D1D57}Prefabs/Weapons/Grenades/Smoke_No80_WP.et" "{B1798B0F1258B765}Prefabs/Items/Equipment/Navigation/DAGR/DAGR.et"
      }
     }
+    ItemsInitConfigurationItem "{65D51D8B91CE547A}" {
+     PrefabsToSpawn {
+      "" "{CBF9B9942E07B6B8}Prefabs/Items/Equipment/Accessories/ZipCuffs/ACE_Captives_ZipCuffs.et"
+     }
+    }
    }
   }
  }

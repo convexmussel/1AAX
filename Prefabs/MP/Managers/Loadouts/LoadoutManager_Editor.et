@@ -21,7 +21,7 @@ SCR_LoadoutManager : "{AA4E7419A1FF65B0}Prefabs/MP/Managers/Loadouts/LoadoutMana
    m_sAffiliatedFaction "UK"
   }
   SCR_FactionPlayerLoadout "{697AE1B280970292}" {
-   m_sLoadoutName "GPMP"
+   m_sLoadoutName "GPMG"
    m_sLoadoutResource "{D918D65E1309AD0A}Prefabs/Characters/Campaign/BLUFOR/UK_Army/Final/Character_UK_GPMG.et"
    m_sAffiliatedFaction "UK"
   }

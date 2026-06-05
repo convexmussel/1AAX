@@ -402,6 +402,16 @@
 		"version": "1.0.0"
 	},
 		{
+		"modId": "65735C5643CCC0A6",
+		"name": "ADSSway - Conf - LOW",
+		"version": "1.0.5"
+	},
+		{
+		"modId": "6608FD6F58F3B90A",
+		"name": "ADSSway - PIP DOF - TEST",
+		"version": "1.0.9"
+	},
+		{
 		"modId": "6896852984E00689",
 		"name": "M777 Lunacy Compatibility",
 		"version": "1.0.1"
@@ -416,11 +426,6 @@
 		"modId": "61ECB5EFAA346151",
 		"name": "TacticalAnimationOverhaul TEST",
 		"version": "2.0.72"
-	},
-		{
-		"modId": "5A7B79D8A910A4D1",
-		"name": "Better Weapon Immersion 2.8",
-		"version": "2.8.0"
 	}
 			]
   },
