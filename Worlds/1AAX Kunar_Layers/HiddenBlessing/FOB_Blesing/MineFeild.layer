@@ -1,0 +1,344 @@
+$grp GenericEntity {
+ {
+  components {
+   MeshObject "{6998ABF5D1679958}" {
+    Object "{AF357B78F8E07022}Assets/Structures/Signs/Military/SignMinefield_01/SignMinefield_01.xob"
+   }
+  }
+  coords 2291.662 23.934 3737.664
+  angles 0 177.131 0
+ }
+ {
+  components {
+   MeshObject "{6998ABF5D1679958}" {
+    Object "{AF357B78F8E07022}Assets/Structures/Signs/Military/SignMinefield_01/SignMinefield_01.xob"
+   }
+  }
+  coords 2301.344 24.234 3740.731
+  angles 0 162.529 0
+ }
+ {
+  components {
+   MeshObject "{6998ABF5D1679958}" {
+    Object "{AF357B78F8E07022}Assets/Structures/Signs/Military/SignMinefield_01/SignMinefield_01.xob"
+   }
+  }
+  coords 2316.623 24.463 3745.625
+  angles 0 164.77 0
+ }
+ {
+  components {
+   MeshObject "{6998ABF5D1679958}" {
+    Object "{AF357B78F8E07022}Assets/Structures/Signs/Military/SignMinefield_01/SignMinefield_01.xob"
+   }
+  }
+  coords 2328.24 25.017 3749.13
+  angles 0 164.77 0
+ }
+ {
+  components {
+   MeshObject "{6998ABF5D1679958}" {
+    Object "{AF357B78F8E07022}Assets/Structures/Signs/Military/SignMinefield_01/SignMinefield_01.xob"
+   }
+  }
+  coords 2339.688 25.361 3755.671
+  angles 0 142.67 0
+ }
+ {
+  components {
+   MeshObject "{6998ABF5D1679958}" {
+    Object "{AF357B78F8E07022}Assets/Structures/Signs/Military/SignMinefield_01/SignMinefield_01.xob"
+   }
+  }
+  coords 2346.883 25.273 3763.336
+  angles 0 117.244 0
+ }
+ {
+  components {
+   MeshObject "{6998ABF5D1679958}" {
+    Object "{AF357B78F8E07022}Assets/Structures/Signs/Military/SignMinefield_01/SignMinefield_01.xob"
+   }
+  }
+  coords 2353.471 25.466 3774.289
+  angles 0 117.244 0
+ }
+ {
+  components {
+   MeshObject "{6998ABF5D1679958}" {
+    Object "{AF357B78F8E07022}Assets/Structures/Signs/Military/SignMinefield_01/SignMinefield_01.xob"
+   }
+  }
+  coords 2359.695 24.87 3785.763
+  angles 0 117.244 0
+ }
+ {
+  components {
+   MeshObject "{6998ABF5D1679958}" {
+    Object "{AF357B78F8E07022}Assets/Structures/Signs/Military/SignMinefield_01/SignMinefield_01.xob"
+   }
+  }
+  coords 2367.798 25.09 3802.267
+  angles 0 117.244 0
+ }
+ {
+  components {
+   MeshObject "{6998ABF5D1679958}" {
+    Object "{AF357B78F8E07022}Assets/Structures/Signs/Military/SignMinefield_01/SignMinefield_01.xob"
+   }
+  }
+  coords 2368.367 24.011 3817.37
+  angles 0 71.892 0
+ }
+ {
+  components {
+   MeshObject "{6998ABF5D1679958}" {
+    Object "{AF357B78F8E07022}Assets/Structures/Signs/Military/SignMinefield_01/SignMinefield_01.xob"
+   }
+  }
+  coords 2364.035 22.622 3829.452
+  angles 0 60.036 0
+ }
+ {
+  components {
+   MeshObject "{6998ABF5D1679958}" {
+    Object "{AF357B78F8E07022}Assets/Structures/Signs/Military/SignMinefield_01/SignMinefield_01.xob"
+   }
+  }
+  coords 2356.763 21.201 3843.169
+  angles 0 61.301 0
+ }
+ {
+  components {
+   MeshObject "{6998ABF5D1679958}" {
+    Object "{AF357B78F8E07022}Assets/Structures/Signs/Military/SignMinefield_01/SignMinefield_01.xob"
+   }
+  }
+  coords 2344.436 20.327 3858.35
+  angles 0 27.679 0
+ }
+ {
+  components {
+   MeshObject "{6998ABF5D1679958}" {
+    Object "{AF357B78F8E07022}Assets/Structures/Signs/Military/SignMinefield_01/SignMinefield_01.xob"
+   }
+  }
+  coords 2331.371 20.647 3865.275
+  angles 0 27.679 0
+ }
+ {
+  components {
+   MeshObject "{6998ABF5D1679958}" {
+    Object "{AF357B78F8E07022}Assets/Structures/Signs/Military/SignMinefield_01/SignMinefield_01.xob"
+   }
+  }
+  coords 2316.625 20.644 3871.482
+  angles 0 4.414 0
+ }
+ {
+  components {
+   MeshObject "{6998ABF5D1679958}" {
+    Object "{AF357B78F8E07022}Assets/Structures/Signs/Military/SignMinefield_01/SignMinefield_01.xob"
+   }
+  }
+  coords 2282.278 21.032 3866.562
+  angles 0 -43.879 0
+ }
+ {
+  components {
+   MeshObject "{6998ABF5D1679958}" {
+    Object "{AF357B78F8E07022}Assets/Structures/Signs/Military/SignMinefield_01/SignMinefield_01.xob"
+   }
+  }
+  coords 2271.484 21.389 3859.294
+  angles 0 -37.629 0
+ }
+ {
+  components {
+   MeshObject "{6998ABF5D1679958}" {
+    Object "{AF357B78F8E07022}Assets/Structures/Signs/Military/SignMinefield_01/SignMinefield_01.xob"
+   }
+  }
+  coords 2260.573 21.439 3852.485
+  angles 0 -37.629 0
+ }
+ {
+  components {
+   MeshObject "{6998ABF5D1679958}" {
+    Object "{AF357B78F8E07022}Assets/Structures/Signs/Military/SignMinefield_01/SignMinefield_01.xob"
+   }
+  }
+  coords 2246.773 21.391 3843.439
+  angles 0 -37.629 0
+ }
+ {
+  components {
+   MeshObject "{6998ABF5D1679958}" {
+    Object "{AF357B78F8E07022}Assets/Structures/Signs/Military/SignMinefield_01/SignMinefield_01.xob"
+   }
+  }
+  coords 2234.129 21.622 3831.371
+  angles 0 -88.739 0
+ }
+ {
+  components {
+   MeshObject "{6998ABF5D1679958}" {
+    Object "{AF357B78F8E07022}Assets/Structures/Signs/Military/SignMinefield_01/SignMinefield_01.xob"
+   }
+  }
+  coords 2230.267 25.137 3821.323
+  angles 0 -88.739 0
+ }
+ {
+  components {
+   MeshObject "{6998ABF5D1679958}" {
+    Object "{AF357B78F8E07022}Assets/Structures/Signs/Military/SignMinefield_01/SignMinefield_01.xob"
+   }
+  }
+  coords 2228.865 22.908 3808.856
+  angles 0 -85.524 0
+ }
+ {
+  components {
+   MeshObject "{6998ABF5D1679958}" {
+    Object "{AF357B78F8E07022}Assets/Structures/Signs/Military/SignMinefield_01/SignMinefield_01.xob"
+   }
+  }
+  coords 2228.747 22.627 3796.975
+  angles 0 -88.739 0
+ }
+ {
+  components {
+   MeshObject "{6998ABF5D1679958}" {
+    Object "{AF357B78F8E07022}Assets/Structures/Signs/Military/SignMinefield_01/SignMinefield_01.xob"
+   }
+  }
+  coords 2231.402 22.654 3788.9
+  angles 0 -118.959 0
+ }
+ {
+  components {
+   MeshObject "{6998ABF5D1679958}" {
+    Object "{AF357B78F8E07022}Assets/Structures/Signs/Military/SignMinefield_01/SignMinefield_01.xob"
+   }
+  }
+  coords 2238.968 23.032 3775.898
+  angles 0 -118.959 0
+ }
+ {
+  components {
+   MeshObject "{6998ABF5D1679958}" {
+    Object "{AF357B78F8E07022}Assets/Structures/Signs/Military/SignMinefield_01/SignMinefield_01.xob"
+   }
+  }
+  coords 2245.633 23.613 3766.626
+  angles 0 -132.424 0
+ }
+ {
+  components {
+   MeshObject "{6998ABF5D1679958}" {
+    Object "{AF357B78F8E07022}Assets/Structures/Signs/Military/SignMinefield_01/SignMinefield_01.xob"
+   }
+  }
+  coords 2258.202 24.283 3752.08
+  angles 0 -132.424 0
+ }
+ {
+  components {
+   MeshObject "{6998ABF5D1679958}" {
+    Object "{AF357B78F8E07022}Assets/Structures/Signs/Military/SignMinefield_01/SignMinefield_01.xob"
+   }
+  }
+  coords 2266.133 24.198 3742.459
+  angles 0 -132.424 0
+ }
+ {
+  components {
+   MeshObject "{6998ABF5D1679958}" {
+    Object "{AF357B78F8E07022}Assets/Structures/Signs/Military/SignMinefield_01/SignMinefield_01.xob"
+   }
+  }
+  coords 2278.34 24.278 3738.574
+  angles 0 -174.931 0
+ }
+}
+$grp GenericEntity : "{0BA1D0F9A229183C}PrefabsEditable/EffectsModules/Mine/BaseEffectModule_MineField_Rect_Row.et" {
+ {
+  coords 2288.179 25.507 3749.065
+ }
+ {
+  coords 2361.61 24.708 3807.206
+  angles 0 -75.459 0
+ }
+ {
+  coords 2303.69 21.599 3865.604
+ }
+ {
+  coords 2281.061 22.204 3858.722
+  angles 0 62.493 0
+ }
+ {
+  coords 2238.576 23.7 3824.349
+  angles 0 -67.268 0
+ }
+ {
+  coords 2247.119 26.302 3781.246
+  angles 0 60.179 0
+ }
+ {
+  coords 2261.528 25.979 3759.664
+  angles 0 38.442 0
+ }
+}
+GenericEntity : "{6C5E1ADBF6188A6D}PrefabsEditable/EffectsModules/Mine/BaseEffectModule_MineField_Medium.et" {
+ coords 2313.677 26.025 3764.839
+ angles 0 -30.573 0
+}
+$grp GenericEntity : "{E7887B6E2B9E8F38}PrefabsEditable/EffectsModules/Mine/BaseEffectModule_MineField_Small.et" {
+ {
+  coords 2254.832 26.68 3770.989
+  angles 0 -37.203 0
+ }
+ {
+  coords 2242.549 26.737 3792.693
+  angles 0 -22.903 0
+ }
+ {
+  coords 2272.572 27.248 3756.156
+  angles 0 -60.187 0
+ }
+ {
+  coords 2340.083 33.439 3781.694
+  angles 0 -58.833 0
+ }
+ {
+  coords 2353.557 25.622 3798.154
+  angles 0 38.366 0
+ }
+ {
+  coords 2358.637 25.226 3819.977
+  angles 0 -19.523 0
+ }
+ {
+  coords 2350.057 24.682 3836.287
+  angles 0 -31.369 0
+ }
+ {
+  coords 2336.826 25.419 3850.569
+  angles 0 34.47 0
+ }
+ {
+  coords 2317.896 24.615 3861.349
+  angles 0 12.145 0
+ }
+ {
+  coords 2266.291 23.594 3845.385
+  angles 0 -35.332 0
+ }
+ {
+  coords 2247.61 23.558 3833.038
+  angles 0 -36.853 0
+ }
+ {
+  coords 2239.164 26.954 3811.261
+ }
+}

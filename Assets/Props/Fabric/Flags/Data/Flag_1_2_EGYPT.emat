@@ -1,0 +1,4 @@
+MatPBRBasic : "{9BE1341F99D33483}Assets/Props/Fabric/Flags/Data/Flag_1_2_EVERON.emat" {
+ Color 0.831 0.831 0.831 1
+ BCRMap "{7A1A31CAEF8BB0CC}PrefabsEditable/Auto/Structures/Military/Flags/Egpyt_Flag.edds"
+}

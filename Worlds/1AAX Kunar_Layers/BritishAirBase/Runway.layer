@@ -1,0 +1,21 @@
+GenericEntity {
+ components {
+  MeshObject "{698ADB1093DF8359}" {
+   Object "{F4E144CAD88A3BC4}Assets/tem_source/props/tem_aircraft.xob"
+  }
+ }
+ coords 2887.66 9.243 3000.266
+ angles -14.906 137.687 8.171
+}
+$grp GenericEntity : "{A80E80B60FEAE52D}PrefabsEditable/Auto/Structures/Military/Flags/E_FlagPole_02_V1_UK.et" {
+ {
+  coords 2849.126 22.7 3126.552
+ }
+ {
+  coords 2728.181 22.598 3120.148
+ }
+}
+SCR_DestructibleBuildingEntity : "{F6FC9703E7F4FDCA}Prefabs/Structures/Military/Houses/ControlTowerMilitary_E_01/ControlTowerMilitary_E_01.et" {
+ coords 2850.064 0.103 3128.285
+ angles 0 -147.679 0
+}
