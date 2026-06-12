@@ -32,7 +32,7 @@ $grp GenericEntity {
     Object "{3B81B2F892B917EE}Concrete Barrier/rsg_military_Concrete_Barrier.xob"
    }
   }
-  coords 2199.553 17.279 3592.411
+  coords 2199.553 16.757 3592.411
   angles 0 19.111 0
  }
  {
@@ -41,7 +41,7 @@ $grp GenericEntity {
     Object "{3B81B2F892B917EE}Concrete Barrier/rsg_military_Concrete_Barrier.xob"
    }
   }
-  coords 2197.194 17.305 3593.388
+  coords 2197.194 16.794 3593.388
   angles 0 20.697 0
  }
  {
@@ -50,12 +50,12 @@ $grp GenericEntity {
     Object "{3B81B2F892B917EE}Concrete Barrier/rsg_military_Concrete_Barrier.xob"
    }
   }
-  coords 2194.692 17.333 3594.483
+  coords 2194.692 16.757 3594.483
   angles 0 20.963 0
  }
 }
 StaticModelEntity : "{5472624DA4EB5B45}PrefabLibrary/DefaultLibrary/Walls/Pipe/BarGate_01.et" {
- coords 2191.873 0.133 3602.32
+ coords 2191.873 0 3602.32
  angles 0 -69.323 0
 }
 $grp GenericEntity : "{819A4D654C2B7387}PrefabsEditable/Auto/Props/Military/Sandbags/Deployable/E_Sandbag_01_long_high_plastic_Deployable.et" {
