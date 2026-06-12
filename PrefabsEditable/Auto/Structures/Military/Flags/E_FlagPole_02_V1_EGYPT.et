@@ -1,3 +1,8 @@
 GenericEntity : "{8528347E5F47F2A4}PrefabsEditable/Auto/Structures/Military/Flags/E_FlagPole_02_V1_FIA.et" {
  ID "50C6D20663830070"
+ components {
+  SCR_FlagComponent "{5E3C95A1E1EE9681}" {
+   m_sDefaultMaterial "{42A08E79944175CE}Assets/Props/Fabric/Flags/Data/Flag_1_2_EGYPT.emat"
+  }
+ }
 }

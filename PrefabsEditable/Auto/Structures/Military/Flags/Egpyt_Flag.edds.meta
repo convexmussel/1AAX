@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{5DE062E2E344C5C4}Assets/Flag_of_the_Army_of_Egypt.edds"
+ Name "{7A1A31CAEF8BB0CC}PrefabsEditable/Auto/Structures/Military/Flags/Egpyt_Flag.edds"
  Configurations {
   PNGResourceClass PC : "{DC555BD399D92412}Configs/System/ResourceTypes/PC/TextureUnspecified.conf" {
   }
