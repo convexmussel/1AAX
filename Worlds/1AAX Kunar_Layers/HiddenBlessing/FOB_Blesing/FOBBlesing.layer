@@ -1,0 +1,72 @@
+StaticModelEntity : "{28AD56269AB347EE}PrefabsEditable/Auto/Props/Military/Sandbags/E_Sandbag_01_bunker_burlap_foundation.et" {
+ coords 2277.597 30 3775.512
+ angles 0 -15.91 0
+}
+$grp GenericEntity : "{3EF310C373E39AAB}PrefabsEditable/Auto/Compositions/Misc/SubCompositions/E_Sandbag_Wall_BarbedWire_USSR_01.et" {
+ {
+  coords 2268.174 29.871 3797.758
+ }
+ {
+  coords 2256.891 28.33 3826.751
+  angles 0 -60.674 0
+ }
+ {
+  coords 2275.042 29.939 3821.802
+ }
+}
+$grp GenericEntity : "{53DBA01024B6DAE3}PrefabsEditable/Auto/Compositions/Slotted/SlotFlatSmall/E_MortarPlacement_S_FIA_01.et" {
+ {
+  coords 2279.846 30 3810.51
+  angles 0 -31.345 0
+ }
+ {
+  coords 2293.106 30 3818.803
+  angles 0 -31.345 0
+ }
+}
+StaticModelEntity : "{5472624DA4EB5B45}PrefabLibrary/DefaultLibrary/Walls/Pipe/BarGate_01.et" {
+ coords 2262.774 0.014 3813.296
+ angles 0 -29.049 0
+}
+GenericEntity : "{C762BA61BAD5B536}PrefabsEditable/Auto/Compositions/Misc/SubCompositions/E_Sandbag_Corner_BarbedWire_USSR_01.et" {
+ coords 2254.563 29.908 3818.101
+ angles 0 -32.721 0
+}
+$grp GenericEntity : "{DC0EE55C7BA342CB}PrefabsEditable/Auto/Structures/Military/Flags/E_FlagPole_02_V1_EGYPT.et" {
+ {
+  coords 2291.233 21.474 3869.883
+ }
+ {
+  coords 2300.689 21.2 3873.381
+ }
+ {
+  coords 2254.293 31.859 3816.518
+ }
+ {
+  coords 2264.807 30.6 3820.714
+ }
+ {
+  coords 2317.938 30 3847.149
+ }
+ {
+  coords 2321.856 30 3845.962
+ }
+ {
+  coords 2350.193 29.979 3813.399
+ }
+ {
+  coords 2281.73 30 3768.738
+ }
+ {
+  coords 2267.768 30 3771.493
+ }
+ {
+  coords 2285.4 34.396 3797.465
+ }
+ {
+  coords 2298.333 30 3812.75
+ }
+ {
+  coords 2293.149 30 3809.439
+ }
+}

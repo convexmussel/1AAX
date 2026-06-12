@@ -189,33 +189,6 @@ $grp GenericEntity {
   coords 2071.895 20.561 3698.644
   angles 0 -74.257 0
  }
- {
-  components {
-   MeshObject "{6997065CC9268693}" {
-    Object "{513A006EDAC6744F}Assets/Structures/Military/Flags/FlagPole_01/dst/Flagpole_01_dbr_01.xob"
-   }
-  }
-  coords 2064.627 27.636 3712.851
-  angles 0 -159.68 0
- }
- {
-  components {
-   MeshObject "{6997065CC9268693}" {
-    Object "{513A006EDAC6744F}Assets/Structures/Military/Flags/FlagPole_01/dst/Flagpole_01_dbr_01.xob"
-   }
-  }
-  coords 2053.797 18.068 3720.337
-  angles 0 -159.68 0
- }
- {
-  components {
-   MeshObject "{6997065CC9268693}" {
-    Object "{513A006EDAC6744F}Assets/Structures/Military/Flags/FlagPole_01/dst/Flagpole_01_dbr_01.xob"
-   }
-  }
-  coords 2050.744 18.177 3710.276
-  angles 0 -159.68 0
- }
 }
 $grp GenericEntity : "{3EC72887AEC40F22}PrefabsEditable/Auto/Props/Furniture/TableOld_01/E_TableOld_01_white.et" {
  {
@@ -225,20 +198,6 @@ $grp GenericEntity : "{3EC72887AEC40F22}PrefabsEditable/Auto/Props/Furniture/Tab
  {
   coords 2068.249 18.323 3699.586
   angles 0 13.739 0
- }
-}
-$grp GenericEntity : "{648595006D9FFFB0}Prefabs/Props/Fabric/Flags/Flag_2_3_USSR_01.et" {
- {
-  coords 2064.645 33.012 3712.908
-  angles 0 115.293 0
- }
- {
-  coords 2053.815 23.443 3720.394
-  angles 0 115.293 0
- }
- {
-  coords 2050.762 23.552 3710.333
-  angles 0 115.293 0
  }
 }
 $grp GenericEntity : "{9EC2DF04F7713A63}Prefabs/Structures/BuildingParts/Doors/DoorSet_Bars_L_EXT_B.et" {
@@ -340,5 +299,16 @@ $grp GenericEntity : "{AC49D9D23A2BD1D8}Prefabs/Props/Furniture/BunkBed_01_Doubl
  {
   coords 2066.123 18.323 3698.504
   angles 0 -74.767 0
+ }
+}
+$grp GenericEntity : "{DC0EE55C7BA342CB}PrefabsEditable/Auto/Structures/Military/Flags/E_FlagPole_02_V1_EGYPT.et" {
+ {
+  coords 2054.492 18.055 3720.474
+ }
+ {
+  coords 2050.555 18.203 3709.473
+ }
+ {
+  coords 2067.276 27.598 3709.021
  }
 }
