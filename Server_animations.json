@@ -15,7 +15,7 @@
 		"password": "1AAX",
 		"passwordAdmin": "Beans",
 		"maxPlayers": 50,
-		"scenarioId": "{03D2E1730A11E50C}Missions/GameMaster_Kunar.conf",
+		"scenarioId": "{9D800B40CB5FA285}Missions/1AAX Kunar.conf",
 		"gameProperties": {
 			"serverMaxViewDistance": 4000,
 			"networkViewDistance": 4000,
