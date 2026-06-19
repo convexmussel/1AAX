@@ -1,0 +1,13 @@
+Projectile : "{2BA3B074AE0BFF82}Prefabs/Weapons/Ammo/Ammo_Grenade_Marker_M713.et" {
+ ID "50C6F965BA00F9FA"
+ components {
+  InventoryItemComponent "{52627A12350994B6}" {
+   Attributes SCR_ItemAttributeCollection "{52627A1234AD20A4}" {
+    ItemDisplayName UIInfo "{5EAF04594EB8AE9B}" {
+     Name "#AAX_M716_NAME"
+    }
+   }
+  }
+ }
+ coords 2318.346 14.187 3328.015
+}

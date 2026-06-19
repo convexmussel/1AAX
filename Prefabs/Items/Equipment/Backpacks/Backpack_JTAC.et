@@ -1,6 +1,8 @@
 GenericEntity : "{09D6A1C9543E4A95}Prefabs/Items/Core/Backpack_Base.et" {
  ID "511E9C6ADE70F798"
  components {
+  SignalsManagerComponent "{697AE1B85F6B2243}" {
+  }
   BaseRadioComponent "{697AE1B4D9CC1ED2}" {
    "Encryption key" "royalCrown"
    "Turned on" 1
@@ -24,17 +26,28 @@ GenericEntity : "{09D6A1C9543E4A95}Prefabs/Items/Core/Backpack_Base.et" {
   MeshObject "{511E9C6ADE70F7BD}" {
    Object "{AD560ADB3B8B102E}Assets/Items/Equipment/Backpacks/Backpack_ALICE_Medium/Backpack_ALICE_Medium.xob"
   }
+  RHS_RadioSourceActiveComponent "{697AE1B8528FA4E5}" {
+  }
+  SCR_RadioComponent "{697AE1B8338680F0}" {
+   m_bCanBeHeld 0
+   m_iRadioCategory MANPACK
+   m_iRadioType ANPRC77
+  }
   SCR_UniversalInventoryStorageComponent "{5222CB03A40528FA}" {
    Attributes SCR_ItemAttributeCollection "{5222CB039E9715D1}" {
     ItemDisplayName UIInfo "{5222CB03904B414C}" {
-     Name "#AR-Backpack_ALICE_Medium_Name"
-     Description "#AR-Backpack_ALICE_Medium_Description"
+     Name "#AAX_JTAC_BACKPACK_NAME"
+     Description "#AAX_JTAC_BACKPACK_DESCRIPTION"
     }
     CustomAttributes {
      PreviewRenderAttributes "{52BCBDD2B54658EC}" {
-      CameraDistanceToItem 4
+      CameraPreset Front
+      CameraOrbitAngles -25 -25 180
+      CameraDistanceToItem 3
+      CameraOffset 0 0.85 0
+      ItemRenderRotation 180 180 0
       FOV 10
-      PreviewModel "{E0BEDFA62478F57F}Assets/Items/Equipment/Backpacks/Backpack_ALICE_Medium/Backpack_ALICE_Medium_combined.xob"
+      PreviewModel "{8000A87A9154E3AD}Assets/Items/Equipment/Backpacks/Backpack_Radio/Backpack_Radio_Item_01.xob"
      }
     }
    }
@@ -44,8 +57,8 @@ GenericEntity : "{09D6A1C9543E4A95}Prefabs/Items/Core/Backpack_Base.et" {
     LoadoutSlotInfo "{511E9C6A327EA2E2}" {
     }
    }
-   WornModel "{AD560ADB3B8B102E}Assets/Items/Equipment/Backpacks/Backpack_ALICE_Medium/Backpack_ALICE_Medium.xob"
-   ItemModel "{B982CAE1F85001D0}Assets/Items/Equipment/Backpacks/Backpack_ALICE_Medium/Backpack_ALICE_Medium_item.xob"
+   WornModel "{220DAAF9CD43ADB1}Assets/Items/Equipment/Backpacks/Backpack_Radio/Backpack_Radio_01.xob"
+   ItemModel "{8000A87A9154E3AD}Assets/Items/Equipment/Backpacks/Backpack_Radio/Backpack_Radio_Item_01.xob"
    SoundInt 810
   }
   ActionsManagerComponent "{511E9C6ADE70F786}" {
@@ -58,15 +71,6 @@ GenericEntity : "{09D6A1C9543E4A95}Prefabs/Items/Core/Backpack_Base.et" {
     }
    }
   }
-  SignalsManagerComponent "{697AE1B85F6B2243}" {
-  }
-  RHS_RadioSourceActiveComponent "{697AE1B8528FA4E5}" {
-  }
-  SCR_RadioComponent "{697AE1B8338680F0}" {
-   m_bCanBeHeld 0
-   m_iRadioCategory MANPACK
-   m_iRadioType ANPRC77
-  }
  }
- coords 3496.379 205.523 641.541
+ coords 2319.044 14.189 3327.919
 }

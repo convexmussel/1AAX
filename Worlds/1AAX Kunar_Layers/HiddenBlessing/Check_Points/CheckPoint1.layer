@@ -54,6 +54,14 @@ $grp GenericEntity {
   angles 0 20.963 0
  }
 }
+$grp Projectile : "{2BA3B074AE0BFF82}Prefabs/Weapons/Ammo/Ammo_Grenade_Marker_M713.et" {
+ {
+  coords 2310.926 14.116 3330.604
+ }
+ {
+  coords 2310.781 14.116 3330.574
+ }
+}
 StaticModelEntity : "{5472624DA4EB5B45}PrefabLibrary/DefaultLibrary/Walls/Pipe/BarGate_01.et" {
  coords 2191.873 0 3602.32
  angles 0 -69.323 0
@@ -67,6 +75,18 @@ $grp GenericEntity : "{819A4D654C2B7387}PrefabsEditable/Auto/Props/Military/Sand
   coords 2192.462 16.959 3596.577
   angles 0 -95.825 0
  }
+}
+Projectile : "{9F5FED556B466EF0}Prefabs/Weapons/Ammo/Ammo_Grenade_Marker_M716.et" {
+ components {
+  InventoryItemComponent "{52627A12350994B6}" {
+   Attributes SCR_ItemAttributeCollection "{52627A1234AD20A4}" {
+    ItemDisplayName UIInfo "{5EAF04594EB8AE9B}" {
+     Name "#AAX_M716_NAME"
+    }
+   }
+  }
+ }
+ coords 2310.836 14.123 3330.122
 }
 $grp GenericEntity : "{A76FBE3B139F227A}PrefabsEditable/Auto/Structures/Signs/Military/E_SignCheckpoint_01_stop.et" {
  {
@@ -85,4 +105,7 @@ $grp GenericEntity : "{DC0EE55C7BA342CB}PrefabsEditable/Auto/Structures/Military
  {
   coords 2191.925 17.362 3594.986
  }
+}
+Projectile : "{F30BD9B5D782E1DE}Prefabs/Weapons/Ammo/Ammo_Grenade_Marker_M715.et" {
+ coords 2311.779 14.122 3330.637
 }

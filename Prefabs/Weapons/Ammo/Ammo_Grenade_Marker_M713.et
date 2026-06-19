@@ -1,0 +1,13 @@
+Projectile : "{D40A105437369C1D}Prefabs/Weapons/Core/Ammo_GrenadeLauncher_Base.et" {
+ ID "50C6F965BA00F9FA"
+ components {
+  InventoryItemComponent "{52627A12350994B6}" {
+   Attributes SCR_ItemAttributeCollection "{52627A1234AD20A4}" {
+    ItemDisplayName UIInfo "{5EAF04594EB8AE9B}" {
+     Name "#AAX_M713_NAME"
+    }
+   }
+  }
+ }
+ coords 2310.781 14.116 3330.574
+}
