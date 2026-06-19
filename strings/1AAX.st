@@ -1,6 +1,14 @@
 StringTable {
  ItemClassName "DefaultStringTableItem"
  Items {
+  DefaultStringTableItem "{69A6EDC40E94EC20}" {
+   Id "AAX_JTAC_BACKPACK_DESCRIPTION"
+   Target_en_us "Radio backpack for with inventory"
+  }
+  DefaultStringTableItem "{69A6EDC41B6041D2}" {
+   Id "AAX_JTAC_BACKPACK_NAME"
+   Target_en_us "JTAC Radio Backpack"
+  }
   DefaultStringTableItem "{69A5380F62378040}" {
    Id "AAX_M713_NAME"
    Target_en_us "40mm Smoke Red"
