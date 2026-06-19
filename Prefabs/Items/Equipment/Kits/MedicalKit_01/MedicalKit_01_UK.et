@@ -1,0 +1,19 @@
+GenericEntity : "{46FD263F0F368A92}Prefabs/Items/Equipment/Kits/MedicalKit_01/MedicalKit_01_base.et" {
+ ID "508AB2013EEE1E00"
+ components {
+  ACE_Medical_MedicalKitInventoryStorageComponent "{5E4E8A7876A50FDC}" {
+   MultiSlots {
+    MultiSlotConfiguration "{66E81CB9F5B0F5B5}" {
+     SlotTemplate LoadoutSlotInfo Bandage {
+      Prefab "{E67E7932C86FBB96}Prefabs/Items/Medicine/FieldDressing_UK_01.et"
+     }
+    }
+    MultiSlotConfiguration "{66E81CBA65FAD3C2}" {
+     SlotTemplate InventoryStorageSlot Saline {
+      Prefab "{57A7222BCD92A59E}Prefabs/Items/Medicine/SalineBag_01/SalineBag_UK_01.et"
+     }
+    }
+   }
+  }
+ }
+}
