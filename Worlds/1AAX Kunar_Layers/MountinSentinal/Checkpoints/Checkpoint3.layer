@@ -1,0 +1,34 @@
+StaticModelEntity : "{5472624DA4EB5B45}PrefabLibrary/DefaultLibrary/Walls/Pipe/BarGate_01.et" {
+ coords 1697.307 0 3909.977
+ angles 0 85.189 0
+}
+$grp GenericEntity : "{819A4D654C2B7387}PrefabsEditable/Auto/Props/Military/Sandbags/Deployable/E_Sandbag_01_long_high_plastic_Deployable.et" {
+ {
+  coords 1693.984 18.094 3905.633
+  angles 0 107.295 0
+ }
+ {
+  coords 1693.461 18.118 3914.124
+  angles 0 58.687 0
+ }
+}
+$grp GenericEntity : "{A76FBE3B139F227A}PrefabsEditable/Auto/Structures/Signs/Military/E_SignCheckpoint_01_stop.et" {
+ {
+  coords 1692.902 18.094 3905.471
+  angles 0 -75.437 0
+ }
+ {
+  coords 1692.746 18.094 3913.467
+  angles 0 -126.45 0
+ }
+}
+$grp GenericEntity : "{DC0EE55C7BA342CB}PrefabsEditable/Auto/Structures/Military/Flags/E_FlagPole_02_V1_EGYPT.et" {
+ {
+  coords 1695.583 18.094 3904.665
+  angles 0 108.51 0
+ }
+ {
+  coords 1694.714 18.537 3916.217
+  angles 0 108.51 0
+ }
+}
