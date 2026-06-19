@@ -1,0 +1,65 @@
+GenericEntity : "{2DE0838804526A10}Prefabs/Compositions/Slotted/SlotFlatSmall/MortarPlacement_S_FIA_01.et" {
+ coords 1384.361 143.835 3042.012
+}
+$grp StaticModelEntity : "{5472624DA4EB5B45}PrefabLibrary/DefaultLibrary/Walls/Pipe/BarGate_01.et" {
+ {
+  coords 1533.731 0 3180.793
+  angles 0 150.702 0
+ }
+ {
+  coords 1541.506 0.011 3163.756
+  angles 0 161.009 0
+ }
+}
+StaticModelEntity : "{6DF0F0E74B7A3A9E}PrefabsEditable/Auto/Compositions/Misc/CustomEntities/DestructionEntities/E_Sandbag_01_bunker_burlap_CompositionDestruction.et" {
+ coords 1535.688 69.765 3158.82
+}
+$grp GenericEntity : "{8BABAE6E7F9B3E39}PrefabsEditable/Auto/Props/Military/Sandbags/E_Sandbag_01_bunker_burlap.et" {
+ {
+  coords 1528.004 66.866 3175.661
+  angles 0 -10.443 0
+ }
+ {
+  coords 1544.108 69.444 3189.184
+  angles -12.863 -65.957 0
+ }
+}
+$grp GenericEntity : "{A3A7C365E845B1B6}PrefabsEditable/Auto/Props/Military/Sandbags/E_Sandbag_01_long_high_burlap.et" {
+ {
+  coords 1541.043 67.356 3181.481
+  angles 0 -61.452 0
+ }
+ {
+  coords 1533.135 67.356 3174.938
+  angles 0 0.133 0
+ }
+ {
+  coords 1543.435 68.119 3175.193
+  angles 0 -61.452 0
+ }
+ {
+  coords 1546.09 68.986 3168.878
+  angles 0 -61.452 0
+ }
+ {
+  coords 1534.196 67.829 3170.418
+  angles 0 0.133 0
+ }
+ {
+  coords 1536.545 68.782 3164.076
+  angles 0 0.133 0
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{FBCE1861B987EA68}Prefabs/Structures/Military/Houses/GuardTower_01/GuardTower_01.et" {
+ {
+  coords 1473.521 -0 3129.204
+ }
+ {
+  coords 1625.564 -0.79 3131.654
+  angles 0 -43.681 0
+ }
+ {
+  coords 1377.076 -0.958 3028.133
+  angles 0 -43.681 0
+ }
+}
